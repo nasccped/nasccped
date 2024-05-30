@@ -169,7 +169,7 @@ contact me with the following links:
 [![Youtube: Unavailable](https://img.shields.io/badge/Youtube-Unavailable-FF0000)](#)
 [![X / Twitter: Unavailable](https://img.shields.io/badge/X%20%2F%20Twitter-Unavailable-249EF0)](#)
 [![LinkedIn: Job Only](https://img.shields.io/badge/LinkedIn-Job%20Only-blue.svg?style=flat&colorA=5b5b5b&colorB=0073B1)](https://www.linkedin.com/in/pedro-brito-74161b2a6/)
-[![Email: pdbt.contact@gmail.com (Job Only)](https://img.shields.io/badge/Email-pdbt.contact@gmail.com%20%28Job%20Only%29-34A853)](mailto:pdbt.contact@gmail.com)
+[![Email: pdbt.contact@gmail.com (Job Only)](https://img.shields.io/badge/Email-pdbt.contact@gmail.com%20%28Job%20Only%29-34A853)](mailto:pdbt.contact@gmail.com?subject=Your%20title%20here!&body=Don%27t%20forget%20to%20add%20the%20body%20of%20the%20message%2E%2E%2E)
 [![Replit: Take a Look](https://img.shields.io/badge/Replit-Take%20a%20Look%20at%20The%20Projects-F26201)](https://replit.com/@nasccped)
 
 <!-- footer like section -->
