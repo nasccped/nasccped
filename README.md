@@ -2,9 +2,9 @@
 <h1 align="center">Hi there, @nasccped here! 👨‍💻</h1>
 
 <!-- some badges -->
-![Loking for a job: Yes!](https://img.shields.io/badge/Loking%20for%20a%20job%3A-Yes!-808836)
-![Level: Student / Beginner](https://img.shields.io/badge/Level%3A-Student%20%2F%20Beginner-FF7F3E)
-![Interested in: Development in General!](https://img.shields.io/badge/Interested%20in%3A-Development%20in%20general-2A629A)
+[![Loking for a job: Yes!](https://img.shields.io/badge/Loking%20for%20a%20job%3A-Yes!-808836)](#)
+[![Level: Student / Beginner](https://img.shields.io/badge/Level%3A-Student%20%2F%20Beginner-FF7F3E)](#)
+[![Interested in: Development in General!](https://img.shields.io/badge/Interested%20in%3A-Development%20in%20general-2A629A)](#)
 
 <!-- description text -->
 I am currently studying the computer science course at the
@@ -116,7 +116,7 @@ In this section you can find not all, but the most important of my projects:
 Pay attention to:
 - Project title: **`This is a name`**
 - Description: This is the description of **`This is a name`** Project
-- Project at: ![Local](https://img.shields.io/badge/Some%20Local-5C6BC0)
+- Project at: [![Local](https://img.shields.io/badge/Some%20Local-5C6BC0)](#)
 - Project link: [*link here*](#)
 - Status: `✅` for complete, `🔁` for in progress, `❓` not yet started
 
@@ -124,9 +124,9 @@ Pay attention to:
 <!-- table itself -->
 | Project Title | Description | Project at | Project Link | Status |
 |:-------------:|:-----------:|:----------:|:------------:|:------:|
-| **`VS Code Theme Extension`** | An extension for the VS Code IDE allowing you to modify the appearance of the software. This isn't that amazing, but after I'm done, I'll feel more comfortable dropping the *beginner* tag from profile | ![GitHub](https://img.shields.io/badge/GitHub-5C6BC0) | [*Unavailable*](#) | `🔁` | <!-- row 1 -->
-| **`Tic Tac Toe Game`** | A famous, but simple Game. At first, I intend to do it in C. Maybe, in the future there will be a more robust version, like in Python (using libraries like [***Pygame***](https://www.pygame.org/news), for example) | ![GitHub and Replit](https://img.shields.io/badge/GitHub-Replit-mix.svg?style=flat&colorA=5C6BC0&colorB=F26201) | [*Unavailable*](#) | `❓` | <!-- row 2 -->
-| **`...`** | ... | ![...](https://img.shields.io/badge/%2E%2E%2E-grey) | [*...*](#) | `...` | <!-- last row -->
+| **`VS Code Theme Extension`** | An extension for the VS Code IDE allowing you to modify the appearance of the software. This isn't that amazing, but after I'm done, I'll feel more comfortable dropping the *beginner* tag from profile | [![GitHub](https://img.shields.io/badge/GitHub-5C6BC0)](#) | [*Unavailable*](#) | `🔁` | <!-- row 1 -->
+| **`Tic Tac Toe Game`** | A famous, but simple Game. At first, I intend to do it in C. Maybe, in the future there will be a more robust version, like in Python (using libraries like [***Pygame***](https://www.pygame.org/news), for example) | [![GitHub and Replit](https://img.shields.io/badge/GitHub-Replit-mix.svg?style=flat&colorA=5C6BC0&colorB=F26201)](#) | [*Unavailable*](#) | `❓` | <!-- row 2 -->
+| **`...`** | ... | [![...](https://img.shields.io/badge/%2E%2E%2E-grey)](#) | [*...*](#) | `...` | <!-- last row -->
 
 <br>
 
