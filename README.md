@@ -125,7 +125,7 @@ Pay attention to:
 | Project Title | Description | Project at | Project Link | Status |
 |:-------------:|:-----------:|:----------:|:------------:|:------:|
 | **`VS Code Theme Extension`** | An extension for the VS Code IDE allowing you to modify the appearance of the software. This isn't that amazing, but after I'm done, I'll feel more comfortable dropping the *beginner* tag from profile | [![GitHub](https://img.shields.io/badge/GitHub-5C6BC0)](#) | [*Unavailable*](#) | `🔁` | <!-- row 1 -->
-| **`Tic Tac Toe Game`** | A famous, but simple Game. At first, I intend to do it in C. Maybe, in the future there will be a more robust version, like in Python (using libraries like [***Pygame***](https://www.pygame.org/news), for example) | [![GitHub and Replit](https://img.shields.io/badge/GitHub-Replit-mix.svg?style=flat&colorA=5C6BC0&colorB=F26201)](#) | [*Unavailable*](#) | `❓` | <!-- row 2 -->
+| **`Tic Tac Toe Game`** | A famous, but simple Game. At first, I intend to do it in C. Maybe, in the future there will be a more robust version, like in Python (using libraries like <a href="https://www.pygame.org/news" target="_blank">***Pygame***</a>, for example) | [![GitHub and Replit](https://img.shields.io/badge/GitHub-Replit-mix.svg?style=flat&colorA=5C6BC0&colorB=F26201)](#) | [*Unavailable*](#) | `❓` | <!-- row 2 -->
 | **`...`** | ... | [![...](https://img.shields.io/badge/%2E%2E%2E-grey)](#) | [*...*](#) | `...` | <!-- last row -->
 
 <br>
@@ -192,4 +192,4 @@ target="_blank">![Replit: Take a Look](https://img.shields.io/badge/Replit-Take%
 <!-- footer like section -->
 ---
 
-<p align="center">Last update: 2024 - May - 29</p>
+<p align="center">Last update: 2024 - May - 30</p>
