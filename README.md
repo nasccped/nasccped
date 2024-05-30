@@ -8,12 +8,10 @@
 
 <!-- description text -->
 I am currently studying the computer science course at the
-[**Cruzeiro do Sul
-<img
+[**Cruzeiro do Sul <img
 src="https://logospng.org/download/cruzeiro-do-sul/logo-cruzeiro-do-sul-estrela-1024.png"
 style="height: 1rem"
-alt="Cruzeiro do Sul logo">**
-](https://www.cruzeirodosul.edu.br/) institution.
+alt="Cruzeiro do Sul logo">**](https://www.cruzeirodosul.edu.br/) institution.
 
 I think it's too early to say that I definitely want to make a living
 from this, but I certainly enjoy and dedicate myself to what I do. ❤️
@@ -125,7 +123,7 @@ Pay attention to:
 | Project Title | Description | Project at | Project Link | Status |
 |:-------------:|:-----------:|:----------:|:------------:|:------:|
 | **`VS Code Theme Extension`** | An extension for the VS Code IDE allowing you to modify the appearance of the software. This isn't that amazing, but after I'm done, I'll feel more comfortable dropping the *beginner* tag from profile | [![GitHub](https://img.shields.io/badge/GitHub-5C6BC0)](#) | [*Unavailable*](#) | `🔁` | <!-- row 1 -->
-| **`Tic Tac Toe Game`** | A famous, but simple Game. At first, I intend to do it in C. Maybe, in the future there will be a more robust version, like in Python (using libraries like <a href="https://www.pygame.org/news" target="_blank">***Pygame***</a>, for example) | [![GitHub and Replit](https://img.shields.io/badge/GitHub-Replit-mix.svg?style=flat&colorA=5C6BC0&colorB=F26201)](#) | [*Unavailable*](#) | `❓` | <!-- row 2 -->
+| **`Tic Tac Toe Game`** | A famous, but simple Game. At first, I intend to do it in C. Maybe, in the future there will be a more robust version, like in Python (using libraries like [Pygame](https://www.pygame.org/news), for example) | [![GitHub and Replit](https://img.shields.io/badge/GitHub-Replit-mix.svg?style=flat&colorA=5C6BC0&colorB=F26201)](#) | [*Unavailable*](#) | `❓` | <!-- row 2 -->
 | **`...`** | ... | [![...](https://img.shields.io/badge/%2E%2E%2E-grey)](#) | [*...*](#) | `...` | <!-- last row -->
 
 <br>
@@ -168,26 +166,11 @@ I confess that I'm not very active on social media, but you can
 contact me with the following links:
 
 <!-- badges area -->
-<a
-href="#"
-target="_self">![Youtube: Unavailable](https://img.shields.io/badge/Youtube-Unavailable-FF0000)
-</a>
-<a
-href="#"
-target="_self">![X / Twitter: Unavailable](https://img.shields.io/badge/X%20%2F%20Twitter-Unavailable-249EF0)
-</a>
-<a
-href="https://www.linkedin.com/in/pedro-brito-74161b2a6/"
-target="_blank">![LinkedIn: Job Only](https://img.shields.io/badge/LinkedIn-Job%20Only-blue.svg?style=flat&colorA=5b5b5b&colorB=0073B1)
-</a>
-<a
-href="mailto:pdbt.contact@gmail.com"
-target="_blank">![Email: pdbt.contact@gmail.com (Job Only)](https://img.shields.io/badge/Email-pdbt.contact@gmail.com%20%28Job%20Only%29-34A853)
-</a>
-<a
-href="https://replit.com/@nasccped"
-target="_blank">![Replit: Take a Look](https://img.shields.io/badge/Replit-Take%20a%20Look%20at%20The%20Projects-F26201)
-</a>
+[![Youtube: Unavailable](https://img.shields.io/badge/Youtube-Unavailable-FF0000)](#)
+[![X / Twitter: Unavailable](https://img.shields.io/badge/X%20%2F%20Twitter-Unavailable-249EF0)](#)
+[![LinkedIn: Job Only](https://img.shields.io/badge/LinkedIn-Job%20Only-blue.svg?style=flat&colorA=5b5b5b&colorB=0073B1)](https://www.linkedin.com/in/pedro-brito-74161b2a6/)
+[![Email: pdbt.contact@gmail.com (Job Only)](https://img.shields.io/badge/Email-pdbt.contact@gmail.com%20%28Job%20Only%29-34A853)](mailto:pdbt.contact@gmail.com)
+[![Replit: Take a Look](https://img.shields.io/badge/Replit-Take%20a%20Look%20at%20The%20Projects-F26201)](https://replit.com/@nasccped)
 
 <!-- footer like section -->
 ---
