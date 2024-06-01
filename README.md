@@ -1,10 +1,14 @@
 <!-- title and -->
 <h1 align="center">Hi there, @nasccped here! 👨‍💻</h1>
 
-<!-- some badges -->
+<!-- some centered badges -->
+<h4 align="center">
+
 [![Loking for a job: Yes!](https://img.shields.io/badge/Loking%20for%20a%20job%3A-Yes!-808836)](#)
 [![Level: Student / Beginner](https://img.shields.io/badge/Level%3A-Student%20%2F%20Beginner-FF7F3E)](#)
 [![Interested in: Development in General!](https://img.shields.io/badge/Interested%20in%3A-Development%20in%20general-2A629A)](#)
+
+</h4>
 
 <!-- description text -->
 I am currently studying the computer science course at the
@@ -165,12 +169,18 @@ Consider:
 I confess that I'm not very active on social media, but you can
 contact me with the following links:
 
-<!-- badges area -->
+<!-- centered badges area -->
+<h4 align="center">
+  
 [![Youtube: @nasccped](https://img.shields.io/badge/Youtube-%40nasccped-FF0000)](https://youtube.com/@nasccped)
 [![X / Twitter: Unavailable](https://img.shields.io/badge/X%20%2F%20Twitter-Unavailable-249EF0)](#)
 [![LinkedIn: Job Only](https://img.shields.io/badge/LinkedIn-Job%20Only-blue.svg?style=flat&colorA=5b5b5b&colorB=0073B1)](https://www.linkedin.com/in/pedro-brito-74161b2a6/)
 [![Email: pdbt.contact@gmail.com (Job Only)](https://img.shields.io/badge/Email-pdbt.contact@gmail.com%20%28Job%20Only%29-34A853)](mailto:pdbt.contact@gmail.com?subject=Your%20title%20here!&body=Don%27t%20forget%20to%20add%20the%20body%20of%20the%20message%2E%2E%2E)
 [![Replit: Take a Look](https://img.shields.io/badge/Replit-Take%20a%20Look%20at%20The%20Projects-F26201)](https://replit.com/@nasccped)
+
+</h4>
+
+
 
 <!-- footer like section -->
 ---
