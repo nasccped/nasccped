@@ -185,7 +185,7 @@ contact me with the following links:
 <!-- footer like section -->
 ---
 
-<p align="center">Last update: 2024 - June - 19</p>
+<p align="center">Last update: 2024 - June - 22</p>
 
 
 
@@ -217,6 +217,6 @@ contact me with the following links:
 
 <!-- footer links -->
 [footer-youtube-link]: https://youtube.com/@nasccped
-[footer-linkedin-link]: https://www.linkedin.com/in/pedro-brito-74161b2a6/
+[footer-linkedin-link]: https://www.linkedin.com/in/nasccped/
 [footer-email-link]: mailto:pdbt.contact@gmail.com?subject=Your%20title%20here!&body=Don%27t%20forget%20to%20add%20the%20body%20of%20the%20message%2E%2E%2E
 [footer-replit-link]: https://replit.com/@nasccped
