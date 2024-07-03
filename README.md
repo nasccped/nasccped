@@ -116,19 +116,19 @@ alt="Replit logo">
 In this section you can find not all, but the most important of my projects:
 
 Pay attention to:
-- Project title: **`This is a name`**
-- Description: This is the description of **`This is a name`** Project
+- Project title: **This is the name**
+- Description: This is the description of **The Project**
 - Project at: [![Local][some-local-badge]](#)
 - Project link: [*link here*](#)
-- Status: `✅` for complete, `🔁` for in progress, `❓` not yet started
+- Status: ✅ for complete, 🔁 for in progress, ❓ not yet started
 
 
 <!-- table itself -->
 | Project Title | Description | Project at | Project Link | Status |
 |:-------------:|:-----------:|:----------:|:------------:|:------:|
-| **`VS Code Theme Extension`** | An extension for the VS Code IDE allowing you to modify the appearance of the software. This isn't that amazing, but after I'm done, I'll feel more comfortable dropping the *beginner* tag from profile | [![GitHub][table-github-badge]](#) | [*Unavailable*](#) | `🔁` | <!-- row 1 -->
-| **`Tic Tac Toe Game`** | A famous, but simple Game. At first, I intend to do it in C. Maybe, in the future there will be a more robust version, like in Python (using libraries like [Pygame][table-pygame-link], for example) | [![GitHub and Replit][table-github-n-replit-badge]](#) | [*Unavailable*](#) | `❓` | <!-- row 2 -->
-| **`...`** | ... | [![...][table-...-badge]](#) | [*...*](#) | `...` | <!-- last row -->
+| **VS Code Theme Extension** | An extension for the VS Code IDE allowing you to modify the appearance of the software. This isn't that amazing, but after I'm done, I'll feel more comfortable dropping the *beginner* tag from profile | [![GitHub][table-github-badge]](#) | [*Go to repository*][gptheme-plus-link] | ✅ | <!-- row 1 -->
+| **Tic Tac Toe Game** | A famous, but simple Game. At first, I intend to do it in C. Maybe, in the future there will be a more robust version, like in Python (using libraries like [Pygame][table-pygame-link], for example) | [![GitHub and Replit][table-github-n-replit-badge]](#) | [*Unavailable*](#) | 🔁 | <!-- row 2 -->
+| **...** | ... | [![...][table-...-badge]](#) | [*...*](#) | ... | <!-- last row -->
 
 <br>
 
@@ -149,7 +149,7 @@ Consider:
 
 - [ ] Build a cool game-like program 🕹️
 - [ ] Build a management program in a "Low Level" lang 📑
-- [ ] Upload my first official VS Code extension 🧩
+- [X] Upload my first official VS Code extension 🧩
 - [ ] Learn some web technologies, like: ⬇️
   - [ ] Tailwind CSS 🎨
   - [ ] React JS ⚛️
@@ -185,7 +185,7 @@ contact me with the following links:
 <!-- footer like section -->
 ---
 
-<p align="center">Last update: 2024 - June - 22</p>
+<p align="center">Last update: 2024 - July - 03</p>
 
 
 
@@ -214,6 +214,7 @@ contact me with the following links:
 
 <!-- table links -->
 [table-pygame-link]: https://www.pygame.org/news
+[gptheme-plus-link]: https://github.com/nasccped/vsc-gptheme-plus-extension
 
 <!-- footer links -->
 [footer-youtube-link]: https://youtube.com/@nasccped
