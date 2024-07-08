@@ -65,9 +65,15 @@ Pay attention to:
 <!-- table itself -->
 | Project Title | Description | Project at | Project Link | Status |
 |:-------------:|:-----------:|:----------:|:------------:|:------:|
-| **VS Code Theme Extension** | An extension for the VS Code IDE allowing you to modify the appearance of the software. This isn't that amazing, but after I'm done, I'll feel more comfortable dropping the _beginner_ tag from profile | [![GitHub][table-github-badge]](#) | [_Go to repository_][gptheme-plus-link] | ✅ | <!-- row 1 -->
+| **VS Code Theme Extension** | An extension for the VS Code IDE allowing you to modify the appearance of the software. This isn't that amazing, but after I'm done, I'll feel more comfortable dropping the _beginner_ tag from profile | [![GitHub and Marketplace][table-github-n-mrktplace-badge]](#) | [_Repository_][gptheme-plus-link-github] or [_Marketplace_][gptheme-plus-link-mrktplace] | ✅ | <!-- row 1 -->
 | **Tic Tac Toe Game** | A simple, but famous Game. At first, I intend to do it in C. Maybe, in the future there will be a more robust version... | [![GitHub and Replit][table-github-n-replit-badge]](#) | [_Unavailable_](#) | 🔁 | <!-- row 2 -->
 | **...** | ... | [![...][table-...-badge]](#) | [_..._](#) | ... | <!-- last row -->
+
+> [!NOTE]
+>
+> So that the readme wouldn't be so big, I only brought the most
+> important projects here. If you want to take a deeper look, you can
+> check out the [projects page 📑][projects-pages]
 
 <br>
 
@@ -124,7 +130,7 @@ contact me with the following links:
 <!-- footer like section -->
 ---
 
-<p align="center">Last update: 2024 - July - 06</p>
+<p align="center">Last update: 2024 - July - 08</p>
 
 
 
@@ -136,10 +142,21 @@ contact me with the following links:
 [interested-in-badge]: https://img.shields.io/badge/Interested%20in%3A-Development%20in%20general-2A629A
 [some-local-badge]: https://img.shields.io/badge/Some%20Local-5C6BC0
 
+<!-- top links -->
+[cruzeiro-do-sul-link]: https://www.cruzeirodosul.edu.br/
+
 <!-- table badges -->
 [table-github-badge]: https://img.shields.io/badge/GitHub-5C6BC0
+[table-github-n-mrktplace-badge]: https://img.shields.io/badge/GitHub-Marketplace-mix.svg?style=flat&colorA=5C6BC0&colorB=333366
 [table-github-n-replit-badge]: https://img.shields.io/badge/GitHub-Replit-mix.svg?style=flat&colorA=5C6BC0&colorB=F26201
 [table-...-badge]: https://img.shields.io/badge/%2E%2E%2E-grey
+
+<!-- table links -->
+[gptheme-plus-link-github]: https://github.com/nasccped/vsc-gptheme-plus-extension
+[gptheme-plus-link-mrktplace]: https://marketplace.visualstudio.com/items?itemName=nascc.gptheme-plus
+
+<!-- other links -->
+[projects-pages]: ./projects/README.md
 
 <!-- footer badges -->
 [footer-youtube-badge]: https://img.shields.io/badge/Youtube-%40nasccped-FF0000
@@ -148,12 +165,6 @@ contact me with the following links:
 [footer-email-badge]: https://img.shields.io/badge/Email-pdbt.contact@gmail.com%20%28Job%20Only%29-34A853
 [footer-x-twitter-badge]: https://img.shields.io/badge/X%20%2F%20Twitter-Unavailable-249EF0
 [footer-linkedin-badge]: https://img.shields.io/badge/LinkedIn-Job%20Only-blue.svg?style=flat&colorA=5b5b5b&colorB=0073B1
-
-<!-- top links -->
-[cruzeiro-do-sul-link]: https://www.cruzeirodosul.edu.br/
-
-<!-- table links -->
-[gptheme-plus-link]: https://github.com/nasccped/vsc-gptheme-plus-extension
 
 <!-- footer links -->
 [footer-youtube-link]: https://youtube.com/@nasccped
