@@ -16,12 +16,12 @@
 I am currently studying the **Computer science** course at the
 [Cruzeiro do Sul <img
 src="https://logospng.org/download/cruzeiro-do-sul/logo-cruzeiro-do-sul-estrela-1024.png"
-style="height: 0.8rem"
+style="height: 1rem"
 alt="Cruzeiro do Sul logo">][cruzeiro-do-sul-link] school. I started
 it in 2023 and I discovered that
 programming is so much cooler than it seems! <img
 src="./assets/this-guy-is-surprised.jpg"
-style="height: 0.8rem; width: 2rem"
+style="height: 1rem; width: 2rem"
 alt="surprised guy">
 
 
