@@ -68,7 +68,7 @@ of/consider important**.
 <!-- kojamp man -->
 <details>
 
-<summary><strong>Top 🥇: Kojamp Man 📦</strong></summary>
+<summary><strong>Top 🥇: Kojamp Man 📦</strong></summary><br>
 
 **Kojamp Man** is a **Kotlin 🏝️** and **Java ☕** Project Manager (like
 [Gradle 🐘][gradle-link]) in a _'noob'_ version. While Gradle and
@@ -86,7 +86,7 @@ by time. You can get more info at the
 <!-- gptheme plus -->
 <details>
 
-<summary><strong>Top 🥈: GPTheme Plus for VS Code 🎨</strong></summary>
+<summary><strong>Top 🥈: GPTheme Plus for VS Code 🎨</strong></summary><br>
 
 **GPTheme Plus for VS Code** is a VS Code colorscheme extension based
 on [Chat GPT][chat-gpt-link] code view. It's not a big achievement,
@@ -98,12 +98,12 @@ more information by accessing the
 [official github repository 👥][gptheme-plus-github-link] or the
 [vscode marketplace 🛒][gptheme-plus-mrktplc-link] too...
 
-</details><br>
+</details>
 
 <!-- tic tac low -->
 <details>
 
-<summary><strong>Top 🥉: Tic Tac Low 🕹️</strong></summary>
+<summary><strong>Top 🥉: Tic Tac Low 🕹️</strong></summary><br>
 
 **Tic Tac Low** is a self-challenge game proposal inspired on the
 `Tic Tac Toe` _(My first solo game developed at CS school)_. Read until
