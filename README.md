@@ -80,7 +80,7 @@ an academic one or something related.
 You can get more info about at the
 [official github repository][kojamp-man-link]
 
-</details><br>
+</details>
 
 <!-- gptheme plus -->
 <details>
@@ -95,7 +95,7 @@ You can get more info about at the
 [official github repository][gptheme-plus-github-link] or you can go
 to [vscode marketplace][gptheme-plus-mrktplc-link] too...
 
-</details><br>
+</details>
 
 
 <!-- personal task list -------------------------------------------->
