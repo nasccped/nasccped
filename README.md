@@ -81,7 +81,7 @@ The project is currently at the beggining and receiving updates time
 by time. You can get more info at the
 [official github repository 🔗][kojamp-man-link]
 
-</details><br>
+</details>
 
 <!-- gptheme plus -->
 <details>
