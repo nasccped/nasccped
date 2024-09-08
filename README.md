@@ -181,6 +181,10 @@ to **get in touch?** All types of contact **are welcome!** 😄
 
 Don't know how? Don't worry, I'll give you the step-by-step:
 
+If you came here by a resume, in that one you can find some contact
+methods such as phone number or e-mail. Otherwise, you can follow
+these items:
+
 - **About the social media**, I'm not gonna lie. I'm not active at
 all but you can get my **Youtube channel**, **LinkedIn** and
 **Reddit** profile at my [github home page][github-profile-link].
