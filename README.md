@@ -27,25 +27,48 @@ alt="surprised guy">
 
 
 <!-- self explanatory ---------------------------------------------->
-Basic skills acquired
----------------------
+Me, my skills & more
+--------------------
 
-- Programming logic 👾
-- Algorithm practices 📑
-- WebDev basics _(HTML, CSS, JS)_ 🌐
-- Database operations _(MySQL)_ 💾
-- Data structure _(C lang)_ 🧑‍🔬
-- OOP paradigm _(Java lang)_ ☕
-- Projects versioning _(Git/GitHub, obviously)_ 🏷️
+I'm **CS** student 📚. I don't have a profissional experience, but I'm
+extremely interested in the area and believe I have strong
+potential 🔭
 
-<!-- aditional -->
-> [!NOTE]
->
-> Not so important things but I would still like to mention 🤓☝️
->
-> - Python _(intermediary)_ 🐍
-> - Kotlin _(basic)_ 🏝️
-> - Rust _(awesome language! I'm still learning)_ 🦀
+Now talking about my skills, I'll try to mention them all, even if
+they're kind of obvious:
+
+<details>
+<summary><strong>Hard skills 👷‍♂️</strong></summary><br>
+
+- **Algorithms practices:** by learning programming, obviously I
+learned how to structure an algorithm, its procedures, performing and
+_'prettyness'_ of it 🔁
+- **Data structure:** I've learned how to create, use and manipulate
+different data types, _primitive ones_ (chars, numerics), _complex_
+(arrays, list, linked list, stacks) and I'm still _learning others_
+(binary tree, binary search tree, etc) 🧑‍🔬
+- **Low level concept:** at **CS College**, I've learned a bunch of
+concepts aplieds to [C lang][c-lang-link], such as pointers &
+references, memory allocation ( <img src="./assets/random-skull.png"
+style="height: 1rem" alt="dude"> 👈 by the way), **C** files and
+**Header** files
+- **Databases:** Relational database was learned too ([MySQL 🐬
+only][mysql-link]), his concept and uses
+- **OOP paradigm:** object-oriented programming and his concepts
+(classes, objects, methods, attributes, inheritance, abstraction,
+etc.) has been learned 🐕 (it was learned using [Java][java-link]
+but works in any OOP Lang xD)
+- **Web development and server integration:** I've learned a lil' bit
+about vanilla HTML, CSS and JavaScript. I'm not a big fan of it but I
+have a good idea of how they work 🌐. Also, learned how to integrate a
+_'server-kind'_ to web pages using MySQL, PHP and a Apache, XAMPP
+WampServer (☝️ this guy don't like web but want to learn a framework)
+- **Versioning practices:** versioning projects during the
+development it's one of the most important tasks to turn into a good
+programmer. I have a good understanding about versioning 🏷️,
+colaborating 🫂 and similars.
+
+</details>
 
 
 
@@ -236,6 +259,9 @@ alt="Brazil flag">
 
 <!-- links -->
 [cruzeiro-do-sul-link]: https://www.cruzeirodosul.edu.br/
+[c-lang-link]: https://www.w3schools.com/c/c_intro.php
+[mysql-link]: https://www.mysql.com/
+[java-link]: https://www.oracle.com/java/
 [gradle-link]: https://gradle.org/
 [maven-link]: https://maven.apache.org/
 [kojamp-man-link]: https://github.com/nasccped/kojamp-man
