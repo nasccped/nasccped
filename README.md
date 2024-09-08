@@ -10,6 +10,16 @@
 
 </h4>
 
+<!-- some tips -->
+> [!TIP]
+>
+> In this README, you will find some _&lt;details&gt;_ tags marked as
+> `'▶'`
+>
+> It's like a 'message' block that maintains the message stored-in.
+>
+> Click on it to see what these blocks stores. Click again and turn
+> back to normal view!
 
 
 <!-- description text ---------------------------------------------->
@@ -79,14 +89,6 @@ My top-tier projects
 <!-- details from projects table -->
 In this section, you will find the projects that I'm **most proud
 of/consider important**.
-
-> [!TIP]
->
-> Look 🥸 here are some `<details>` tags! It's like a 'message'
-> block that maintains the message stored-in.
->
-> Click on it to see what these blocks stores. Click again and turn
-> back to normal view!
 
 <!-- kojamp man -->
 <details>
@@ -174,10 +176,6 @@ Check my tasklist: 📋
 Consider:
 - [X] ✅ As already done
 - [ ] ❌ Not done yet
-
-> [!TIP]
->
-> Again, remember how `<details>` works 😄
 
 ---
 
