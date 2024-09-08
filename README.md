@@ -11,10 +11,10 @@
 </h4>
 
 <!-- some tips -->
-> [!TIP]
+> [!NOTE]
 >
 > In this README, you will find some _&lt;details&gt;_ tags marked as
-> `'▶'`
+> `'▸'`
 >
 > It's like a 'message' block that maintains the message stored-in.
 >
