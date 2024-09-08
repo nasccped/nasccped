@@ -123,8 +123,6 @@ dependency here will be the **binary**. The rest will be coded 🗿
 window. The game **is simple**, the implementation **is hard**.
 That's the deal 🗿
 
----
-
 So... **what's the problem? 🤓**
 
 When I started the [Kojamp Man 📦][kojamp-man-link] development, I
