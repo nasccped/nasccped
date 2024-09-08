@@ -162,7 +162,7 @@ Consider:
 
 <details>
 
-<summary><strong>Goals to 2️⃣0️⃣2️⃣4️⃣</strong></summary>
+<summary><strong>Goals to 2024</strong></summary><br>
 
 - [X] Upload my first official VS Code extension 🧩
 - [ ] Do several updates to [Kojamp Man][kojamp-man-link] project 🪛
