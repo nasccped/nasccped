@@ -225,7 +225,7 @@ alt="Brazil flag">
 
 
 
-<p align="center">Last update: 2024 - September - 07</p>
+<p align="center">Last update: 2024 - September - 08</p>
 
 <!-- md link-shorts ------------------------------------------------->
 
