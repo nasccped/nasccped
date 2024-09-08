@@ -198,7 +198,7 @@ profile pic.
   - **LinkedIn** is a formal network, **'Job-Only'** things are
   recomended 🧑‍💼
   - **Reddit** is a informal one but I'm not active on it 💤
-  - **Twitter** - Unavailable for Brazil <img
+  - **X / Twitter** - Unavailable for Brazil <img
 src="./assets/random-skull.png"
 style="height: 1rem"
 alt="dude...">
