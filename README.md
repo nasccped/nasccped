@@ -59,7 +59,7 @@ of/consider important**.
 
 > [!TIP]
 >
-> Look 🥸 here are some _`<details>`_ tags! It's like a 'message'
+> Look 🥸 here are some `<details>` tags! It's like a 'message'
 > block that maintains the message stored-in.
 >
 > Click on it to see what these blocks stores. Click again and turn
