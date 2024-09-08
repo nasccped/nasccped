@@ -13,13 +13,13 @@
 
 
 <!-- description text ---------------------------------------------->
-I am currently studying the **Computer science** course at the
+I am currently studying the **Computer Science** course at the
 [Cruzeiro do Sul <img
 src="./assets/logo-cruzeiro_do_sul.png"
 style="height: 1rem"
-alt="Cruzeiro do Sul logo">][cruzeiro-do-sul-link] school. I started
-it in 2023 and I discovered that
-programming is so much cooler than it seems! <img
+alt="Cruzeiro do Sul logo">][cruzeiro-do-sul-link] university. I
+started it in 2023 and I discovered that programming is so much
+cooler than it seems! <img
 src="./assets/random-surprised_guy.jpg"
 style="height: 1rem; width: 2rem"
 alt="surprised guy">
