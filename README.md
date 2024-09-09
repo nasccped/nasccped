@@ -48,6 +48,7 @@ Now talking about my skills, I'll try to mention them all, even if
 they're kind of obvious:
 
 <details>
+
 <summary><strong>Hard skills 👷‍♂️</strong></summary><br>
 
 - **Algorithms practices:** by learning programming, obviously I
