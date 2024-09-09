@@ -5,8 +5,8 @@
 <h4 align="center">
 
 [![Loking for a job: Yes!][loking-for-a-job-badge]](#)
-[![Currently performing as: Student][performing-badge]](#)
-[![Interested in: Programming in General!][interested-in-badge]](#)
+[![Currently: Student][currently-badge]](#)
+[![Interest: Programming in General!][interest-badge]](#)
 
 </h4>
 
@@ -250,8 +250,8 @@ alt="Brazil flag">
 
 <!-- badges -->
 [loking-for-a-job-badge]: https://img.shields.io/badge/Loking%20for%20a%20job%3A-Yes!-629CCC
-[performing-badge]: https://img.shields.io/badge/Currently%20performing%20as%3A-Student-AB7EDB
-[interested-in-badge]: https://img.shields.io/badge/Interested%20in%3A-Programming%20in%20general-DE5E55
+[currently-badge]: https://img.shields.io/badge/Currently%3A-Student-AB7EDB
+[interest-badge]: https://img.shields.io/badge/Interest%3A-Programming%20in%20general-DE5E55
 
 <!-- links -->
 [cruzeiro-do-sul-link]: https://www.cruzeirodosul.edu.br/
