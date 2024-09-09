@@ -224,10 +224,8 @@ src="./assets/random-skull.png"
 style="height: 1rem"
 alt="dude...">
   - **Facebook** - I don't have one 🤓
-  - Did you want to send me an **e-mail?** [Click here <img
-src="./assets/logo-gmail.png"
-style="height: 1rem"
-alt="gmail logo">][send-email-template]
+  - Did you want to send me an **e-mail?**
+[Click here][send-email-template] 📩
   - Did you want to get my **Discord?** Send me an e-mail we gonna
 talk a bit 🗣️
   - I have a **Replit** account too. You can access it by
