@@ -81,6 +81,68 @@ colaborating 🫂 and similars.
 
 </details>
 
+<details>
+
+<summary><strong>Soft skills 🧠</strong></summary><br>
+
+- **Analytical/critical thinking:** skill developed almost
+automatically when we study programming, also, very important to
+problem solving. 🎯
+- **Self-didaction & constant learning:** When it comes to
+technology, all the information we need is available on the internet.
+Knowing how to make the most of it is essential to becoming a
+successful programmer! 🧑‍💻
+- **Problem Solving:** previously mentioned, problem solving is
+basically the reason the programmer exists. Little time is spent
+building new things but a lot is spent repairing the old ones. 🕰️
+- **Comunication:** Regardless of the area in which you work, you
+will only be able to be a good professional if you are able to
+create, explain and support your ideas and arguments. Knowing how to
+convince others through communication proves a lot about your
+potential. 🗿
+
+</details>
+
+<details>
+
+<summary><strong>Extras 🪐</strong></summary><br>
+
+Things that are not so import but I still like to mention! 🗣️
+
+Technologies that I have already had contact with:
+- Python 🐍
+- C 📠
+- Java ☕
+- Kotlin 🏝️
+- MySQL 🐬
+- Scripts 📓 _(Bash & Powershell)_
+- Makefiles ⚒️
+- Web 🌐 _(HTML, CSS, JS)_
+- Rust 🦀 _(I'm still learning)_
+- PHP 🐘
+- Git 🏷️
+
+What I like? _(job related)_
+- programming ⌨️ _(obviously)_
+- learn new things 📚
+- beat my tasks ✅
+- have my potential recognized 💪
+- develop really, really, **REALLY** cool things 🎁
+- contribute with all people around me 🤝
+
+What I like too? _(non job related)_
+- my friends 🫂
+- draws ✏️
+- arts 🖼️
+- some games 🕹️
+- music production 🎺
+- animals 🦜
+
+Not so important but some people say that I'm **funny** and
+**responsible.** They like having me around 🗿
+
+</details>
+
 
 
 <!-- dedicated to my personal projects ----------------------------->
