@@ -4,9 +4,9 @@
 <!-- some centered badges -->
 <h4 align="center">
 
-[![Loking for a job: Yes!][loking-for-a-job-badge]](#)
-[![Currently: Student][currently-badge]](#)
-[![Interest: Programming in General!][interest-badge]](#)
+[![Loking for a job!][loking-for-a-job-badge]](#)
+[![CS student][student-badge]](#)
+[![Programming lover!][prog-lov-badge]](#)
 
 </h4>
 
@@ -307,14 +307,14 @@ alt="Brazil flag">
 
 
 
-<p align="center">Last update: 2024 - September - 09</p>
+<p align="center">Last update: 2024 - September - 11</p>
 
 <!-- md link-shorts ------------------------------------------------->
 
 <!-- badges -->
-[loking-for-a-job-badge]: https://img.shields.io/badge/Loking%20for%20a%20job%3A-Yes!-629CCC
-[currently-badge]: https://img.shields.io/badge/Currently%3A-Student-AB7EDB
-[interest-badge]: https://img.shields.io/badge/Interest%3A-Programming%20in%20general-DE5E55
+[loking-for-a-job-badge]: https://img.shields.io/badge/loking_for_a_job!-0175C2?style=for-the-badge&logo=SearXNG&logoColor=white
+[student-badge]: https://img.shields.io/badge/cs_student-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=white
+[prog-lov-badge]: https://img.shields.io/badge/programming_lover-DE3141?style=for-the-badge&logo=GNOME-Terminal&logoColor=white
 
 <!-- links -->
 [cruzeiro-do-sul-link]: https://www.cruzeirodosul.edu.br/
