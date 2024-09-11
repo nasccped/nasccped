@@ -307,8 +307,6 @@ alt="Brazil flag">
 
 
 
-<p align="center">Last update: 2024 - September - 11</p>
-
 <!-- md link-shorts ------------------------------------------------->
 
 <!-- badges -->
