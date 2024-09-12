@@ -12,8 +12,6 @@
 > > [clicking here][inf-readme-link] 👈
 
 
----
-
 <!-- about me section -->
 I'm nasccped, a **Computer Science student** at
 [Cruzeiro do Sul][cruzeiro-do-sul-link] ⭐
