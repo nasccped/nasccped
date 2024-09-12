@@ -49,6 +49,9 @@ Estoy **buscando trabajo**, por cierto 💼
 
 Ir a mi LinkedIn [pinchando aquí][linkedin-link] 👈
 
+También puedes enviarme un correo electrónico
+[haciendo clic aquí][sendme-an-email] 📩
+
 <!-- links -->
 [frm-readme-ptbr-link]: ./README.frm.pt-br.md
 [frm-readme-es-link]: ./README.frm.es.md
@@ -57,3 +60,4 @@ Ir a mi LinkedIn [pinchando aquí][linkedin-link] 👈
 [tic-tac-low-repo]: https://github.com/nasccped/tic-tac-low
 [kojamp-man-repo]: https://github.com/nasccped/kojamp-man
 [linkedin-link]: https://www.linkedin.com/in/nasccped/
+[sendme-an-email]: mailto:pdbt.contact@gmail.com?subject=Pon%20el%20t%C3%ADtulo%20del%20mensaje%20aqu%C3%AD%20%E2%9C%8D%EF%B8%8F&body=No%20olvides%20agregar...%20bueno...%20el%20mensaje%20%F0%9F%98%85
