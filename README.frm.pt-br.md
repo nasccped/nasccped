@@ -10,8 +10,8 @@
 > > style="height: 1rem"
 > > alt="bandeira do Brasil">** do meu `README`.
 > > Caso queira, pode acessar a página em:
-> > - [Inglês <img src="./assets/flag-usa.png" style="height: 1rem" alt="bandeira dos EUA">][profile-link]
-> > - [Espanhol <img src="./assets/flag-bolivia.png" style="height: 1rem" alt="bandeira da Bolívia">][frm-readme-es-link]
+> > - [inglês (english <img src="./assets/flag-usa.png" style="height: 1rem" alt="bandeira dos EUA">)][profile-link]
+> > - [espanhol (español <img src="./assets/flag-bolivia.png" style="height: 1rem" alt="bandeira da Bolívia">)][frm-readme-es-link]
 >
 > ---
 >
