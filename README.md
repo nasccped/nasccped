@@ -5,6 +5,16 @@
 >
 > If you are reading it, you need to know:
 >
+> > You are currently reading an **english version <img
+> > src="./assets/flag-usa.png"
+> > style="height: 1rem"
+> > alt="USA flag">** of my `README`.
+> > If you prefer, you can check other langs:
+> > - [portuguese (português <img src="./assets/flag-brazil.png" style="height: 1rem" alt="Brazil flag">)][frm-readme-ptbr-link]
+> > - [spanish  (spañol <img src="./assets/flag-bolivia.png" style="height: 1rem" alt="Bolivia flag">)][frm-readme-es-link]
+>
+> ---
+>
 > > This is a simplified version of my profile `README`
 > >
 > > If you're curious about a more funny, descriptive and informal
@@ -40,6 +50,8 @@ Want to take a look? 👀
 Go to my LinkedIn by [clicking here][linkedin-link] 👈
 
 <!-- links -->
+[frm-readme-ptbr-link]: ./README.frm.pt-br.md
+[frm-readme-es-link]: ./README.frm.es.md
 [inf-readme-link]: ./README.inf.md
 [cruzeiro-do-sul-link]: https://www.cruzeirodosul.edu.br/
 [tic-tac-low-repo]: https://github.com/nasccped/tic-tac-low
