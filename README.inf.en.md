@@ -13,13 +13,20 @@
 <!-- some tips -->
 > [!NOTE]
 >
-> In this README, you will find some _&lt;details&gt;_ tags marked as
-> `'▸'`
+> Some notes to help you in the navigation:
 >
-> It's like a 'message' block that maintains the message stored-in.
+> > This is an informal version of my profile's README. You can
+> > access the official one by [clicking here][github-profile-link] 👈
 >
-> Click on it to see what these blocks stores. Click again and turn
-> back to normal view!
+> ---
+>
+> > In this README, you will find some _&lt;details&gt;_ tags marked as
+> > `'▸'`
+> >
+> > It's like a 'message' block that maintains the message stored-in.
+> >
+> > Click on it to see what these blocks stores. Click again and turn
+> > back to normal view!
 
 
 <!-- description text ---------------------------------------------->
