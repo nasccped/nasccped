@@ -20,6 +20,15 @@
 >
 > ---
 >
+> > **No english?** <img src="./assets/random-no_something_meme.jpg" style="height: 1rem; width: 2rem" alt="no english?"><br>
+> > **No problem!** <img src="./assets/random-theres_a_starman.png" style="height: 1rem; width: 2rem" alt="no worry, son">
+> >
+> > You can access the same page at different languages, such as:
+> > - [portuguese (português <img src="./assets/flag-brazil.png" style="height: 1rem" alt="Brazil flag">)][inf-readme-ptbr-link]
+> > - [spanish  (spañol <img src="./assets/flag-bolivia.png" style="height: 1rem" alt="Bolivia flag">)][inf-readme-es-link]
+>
+> ---
+>
 > > In this README, you will find some _&lt;details&gt;_ tags marked as
 > > `'▸'`
 > >
@@ -322,6 +331,8 @@ alt="Brazil flag">
 [prog-lov-badge]: https://img.shields.io/badge/programming_lover-DE3141?style=for-the-badge&logo=GNOME-Terminal&logoColor=white
 
 <!-- links -->
+[inf-readme-ptbr-link]: ./README.inf.pt-br.md
+[inf-readme-es-link]: ./README.inf.es.md
 [cruzeiro-do-sul-link]: https://www.cruzeirodosul.edu.br/
 [c-lang-link]: https://www.w3schools.com/c/c_intro.php
 [mysql-link]: https://www.mysql.com/
