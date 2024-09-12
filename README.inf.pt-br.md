@@ -25,7 +25,7 @@
 > >
 > > Você pode acessar a mesma página em diferentes linguages, como
 > > por exemplo em:
-> > - [inglês (english <img src="./assets/flag-usa.png" style="height: 1rem" alt="bandeira dos EUA">)][inf-readme-ptbr-link]
+> > - [inglês (english <img src="./assets/flag-usa.png" style="height: 1rem" alt="bandeira dos EUA">)][inf-readme-en-link]
 > > - [espanhol (spañol <img src="./assets/flag-bolivia.png" style="height: 1rem" alt="bandeira da Bolivia">)][inf-readme-es-link]
 >
 > ---
@@ -334,6 +334,8 @@ alt="Brazil flag">
 
 <!-- links -->
 [frm-readme-ptbr-link]: ./README.frm.pt-br.md
+[inf-readme-en-link]: ./README.inf.en.md
+[inf-readme-es-link]: ./README.inf.es.md
 [cruzeiro-do-sul-link]: https://www.cruzeirodosul.edu.br/
 [c-lang-link]: https://www.w3schools.com/c/c_intro.php
 [mysql-link]: https://www.mysql.com/
