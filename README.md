@@ -54,7 +54,7 @@ You can also send me an email by [clicking here][sendme-an-email] 📩
 <!-- links -->
 [frm-readme-ptbr-link]: ./README.frm.pt-br.md
 [frm-readme-es-link]: ./README.frm.es.md
-[inf-readme-link]: ./README.inf.md
+[inf-readme-link]: ./README.inf.en.md
 [cruzeiro-do-sul-link]: https://www.cruzeirodosul.edu.br/
 [tic-tac-low-repo]: https://github.com/nasccped/tic-tac-low
 [kojamp-man-repo]: https://github.com/nasccped/kojamp-man
