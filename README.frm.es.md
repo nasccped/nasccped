@@ -11,7 +11,7 @@
 > > alt="USA flag">** de mi `README`.
 > > Si lo prefieres, pudes verlo en otros idiomas:
 > > - [portugués (português <img src="./assets/flag-brazil.png" style="height: 1rem" alt="bandera de Brasil">)][frm-readme-ptbr-link]
-> > - [inglés  (english <img src="./assets/flag-usa.png" style="height: 1rem" alt="bandera de EUA">)][frm-readme-es-link]
+> > - [inglés  (english <img src="./assets/flag-usa.png" style="height: 1rem" alt="bandera de EUA">)][frm-readme-en-link]
 >
 > ---
 >
@@ -54,7 +54,7 @@ También puedes enviarme un correo electrónico
 
 <!-- links -->
 [frm-readme-ptbr-link]: ./README.frm.pt-br.md
-[frm-readme-es-link]: ./README.frm.es.md
+[frm-readme-en-link]: https://github.com/nasccped
 [inf-readme-es-link]: ./README.inf.es.md
 [cruzeiro-do-sul-link]: https://www.cruzeirodosul.edu.br/
 [tic-tac-low-repo]: https://github.com/nasccped/tic-tac-low
