@@ -277,7 +277,7 @@ Want to get in touch?
 ---------------------
 
 Did you see **something interesting?** Want to **collaborate?** Need
-to **get in touch?** All types of contact **are welcome!** 😄
+to **get in touch?** All kind of contact **are welcome!** 😄
 
 Don't know how? Don't worry, I'll give you the step-by-step:
 
