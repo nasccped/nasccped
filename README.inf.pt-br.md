@@ -276,54 +276,55 @@ Considere:
 
 
 
-<!-- contact ------------------------------------------------------->
-Want to get in touch?
----------------------
+<!-- contato ------------------------------------------------------->
+Quer entrar em contato?
+-----------------------
 
-Did you see **something interesting?** Want to **collaborate?** Need
-to **get in touch?** All types of contact **are welcome!** 😄
+Viu **algo interessante?** Gostaria de **colaborar?** Precisa
+**entrar em contato?** Todo tipo de contato é **bem vindo!** 😄
 
-Don't know how? Don't worry, I'll give you the step-by-step:
+Não sabe como? Não se preocupe, vou te dar o passo-a-passo:
 
-If you came here by a resume, in that one you can find some contact
-methods such as phone number or e-mail. Otherwise, you can follow
-these items:
+Se você chegou aqui a partir de um currículo, nesse mesmo você ainda
+pode encontrar meios de contato como número de telefone ou e-mail.
+Caso contrário, você pode seguir esses itens:
 
-- **About the social media**, I'm not gonna lie. I'm not active at
-all but you can get my **Youtube channel**, **LinkedIn** and
-**Reddit** profile at my [github home page][github-profile-link].
-_(english only <img src="./assets/random-no_something_meme.jpg"
+- **Sobre as redes sociais**, não vou mentir. Não sou muito ativo mas
+você pode obter o meu **canal do Youtube**, **LinkedIn** e perfil do
+**Reddit** na [página principal][github-profile-link].
+_(somente em inglês <img src="./assets/random-no_something_meme.jpg"
 style="height: 1rem; width: 2rem"
-alt="no english?">)_
-- All you need to do is go to the link mentioned above _(if you
-aren't at README.md)_ and access the links that are below/by side the
-profile pic.
-  - **Youtube** has nothing important 🤷
-  - **LinkedIn** is a formal network, **'Job-Only'** things are
-  recomended 🧑‍💼
-  - **Reddit** is a informal one but I'm not active on it 💤
-  - **X / Twitter** - Unavailable for Brazil <img
+alt="sem inglês?">)_
+
+- Tudo que você precisa fazer é acessar o link mencionado acima _(caso
+não esteja no README.md)_ e usar os links que ficam em baixo/do lado
+da foto de perfil
+  - **Youtube** não tem nada de importante 🤷
+  - **LinkedIn** é uma rede forma, apenas **'coisas de trabalho'**
+  são recomendadas 🧑‍💼
+  - **Reddit** é informal mas eu não sou ativo lá 💤
+  - **X / Twitter** - Indisponível em terras brasileiras <img
 src="./assets/random-skull.png"
 style="height: 1rem"
-alt="dude...">
-  - **Facebook** - I don't have one 🤓
-  - Did you want to send me an **e-mail?**
-[Click here][send-email-template] 📩
-  - Did you want to get my **Discord?** Send me an e-mail we gonna
-talk a bit 🗣️
-  - I have a **Replit** account too. You can access it by
-[clicking here][replit-profile-link] 👈
+alt="cara...">
+  - **Facebook** - não tenha um 🤓
+  - Quer me mandar um **e-mail?**
+[clique aqui][send-email-template] 📩
+  - Quer o meu contato de **Discord?** Me manda um e-mail e a gente
+conversa 🗣️
+  - Eu tenho uma conta no **Replit** também. Você pode acessar
+[clicando aqui][replit-profile-link] 👈
 
 
 
-<!-- bye bye ------------------------------------------------------->
-Bye Bye
--------
+<!-- tchau tchau ---------------------------------------------------->
+Tchau tchau
+-----------
 
-**That's all!** Hugs from São Paulo - Brazil
+**Isso é tudo!** Abraços de São Paulo - Brazil
 <img src="./assets/flag-brazil.png"
 style="height: 1rem"
-alt="Brazil flag">
+alt="bandeira do Brasil">
 
 
 
