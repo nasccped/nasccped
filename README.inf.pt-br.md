@@ -164,46 +164,45 @@ Isso não é tão importante, mas algumas pessoas dizem que eu sou
 
 
 
-<!-- dedicated to my personal projects ----------------------------->
-My top-tier projects
+<!-- área dedicada aos meus projetos pessoais ---------------------->
+Meu _'top-projetos'_
 --------------------
 
-<!-- details from projects table -->
-In this section, you will find the projects that I'm **most proud
-of/consider important**.
+Nessa seção, você vai encontrar os projetos que mais me
+orgulho/considero importante.
 
 <!-- kojamp man -->
 <details>
 
 <summary><strong>Top 🥇: Kojamp Man 📦</strong></summary><br>
 
-**Kojamp Man** is a **Kotlin 🏝️** and **Java ☕** Project Manager (like
-[Gradle 🐘][gradle-link]) in a _'noob'_ version. While Gradle and
-[Maven 🪶][maven-link] generates a giant environment to compile, run
-and debug the project, Kojamp Man just generates the basic content
-(`.git/`, `src/`, `Makefile`) to develope and run your project as
-an academic one or something related 🏫
+**Kojamp Main** é uma versão _'noob'_ de Project Manager para
+**Kotlin 🏝️** e **Java ☕** (que nem o [Gradle 🐘][gradle-link]).
+Enquanto o Gradle e [Maven 🪶][maven-link] geram um ambiente gigante
+para compilar, executar e debugar o projeto, Kojamp Man gera apenas
+o conteúdo básico (`.git/`, `src/`, `Makefile`) para desenvolver e
+rodar o seu projeto de maneira acadêmica ou algo semelhante 🏫
 
-The project is currently at the beggining and receiving updates time
-by time. You can get more info at the
-[official github repository 🔗][kojamp-man-link]
+O projeto ainda está no começo e recebendo atualizações de tempo em
+tempo. Você pode obter mais informações no 
+[repositório oficial no github 🔗][kojamp-man-link]
 
 </details>
 
 <!-- gptheme plus -->
 <details>
 
-<summary><strong>Top 🥈: GPTheme Plus for VS Code 🎨</strong></summary><br>
+<summary><strong>Top 🥈: GPTheme Plus para VS Code 🎨</strong></summary><br>
 
-**GPTheme Plus for VS Code** is a VS Code colorscheme extension based
-on [Chat GPT][chat-gpt-link] code view. It's not a big achievement,
-but I was proud of it 🫡
+**GPTheme Plus para VS Code** é uma extensão de tema para o VS Code
+baseada no visual de código do [Chat GPT][chat-gpt-link]. Não é uma
+grande conquista mas me deixa orgulhoso 🫡
 
-A short while ago, I started using [Neovim][neovim-link] as my **IDE**
-and this made me work less on this project 🙁, but you can still get
-more information by accessing the
-[official github repository 👥][gptheme-plus-github-link] or the
-[vscode marketplace 🛒][gptheme-plus-mrktplc-link] too...
+Pouco tempo atrás, eu comecei a usar o [Neovim][neovim-link] como
+minha IDE e isso fez com que eu trabalhasse menos nesse projeto 🙁,
+mas você ainda pode obter mais informações acessando o 
+[repositório oficial no github 👥][gptheme-plus-github-link] ou o
+[vscode marketplace 🛒][gptheme-plus-mrktplc-link] também...
 
 </details>
 
@@ -212,36 +211,37 @@ more information by accessing the
 
 <summary><strong>Top 🥉: Tic Tac Low 🕹️</strong></summary><br>
 
-**Tic Tac Low** is a self-challenge game proposal inspired on the
-`Tic Tac Toe` _(My first solo game developed at CS school)_. Read until
-the end. It Worth 🥹
+**Tic Tac Low** é uma proposta de 'auto-desafio' em forma de jogo
+inspirado no `Jogo da Velha` _(Meu primeiro jogo solo desenvolvido na
+faculada)_. Leia até o final. Vale a pena 🥹
 
-At first, I wanted to develop a game, but with some restrictions:
+A princípio eu queria desenvolver um jogo, mas com algumas
+restrições:
 
-- Make a game in _Pygame_, _Java_, _Unreal_, _..._ it's easy a lot 💤.
-Dude, I'm not a _programmer_ 👶, I'm a _**PRO**-grammer_ 🗿. I want to
-do this **in the hardest lang that I've learned**. _(C was choosen
-<img src="./assets/random-guy_at_war.gif"
+- Fazer um jono no _Pygame_, _Java_, _Unreal_, ... é fácil demais 💤.
+Cara, eu não sou um _programador_ 👶, sou um _**PRÓ**-gramador_ 🗿. Eu
+quero fazer isso na linguagem mais difícil que eu aprendi. _(C lang
+foi escolhida <img src="./assets/random-guy_at_war.gif"
 style="height: 1rem; widht: 2rem"
-alt="goofy war meme">)_
-- **Libs**? **Generate window**? **Dependencies**? The only
-dependency here will be the **binary**. The rest will be coded 🗿
-- Everything will be **visualized** and **accessed** by the terminal
-window. The game **is simple**, the implementation **is hard**.
-That's the deal 🗿
+alt="meme guerra estranha">)_
+- **Bibliotecas**? **Gerar janela**? **Dependências**? A única
+dependência aqui vai ser o binário. O resto vai ser codado 🗿
+- Tudo vai ser visualizado e acessado pela janela do terminal. O jogo
+é simples, a implementação é difícil. Esse é o acordo 🗿
 
-So... **what's the problem? 🤓**
+Então... **qual o problema? 🤓**
 
-When I started the [Kojamp Man 📦][kojamp-man-link] development, I
-ended up _leaving this project aside for a while_ ~~(the difficulty
-in development also contributed)~~. I don't know if I'll go back to
-developing this project any time soon, but I **intend to finish it
-someday!** <img src="./assets/random-theres_a_starman.png"
+Quando eu iniciei o desenvolvimento do
+[Kojamp Man 📦][kojamp-man-link], acabei deixando esse projeto um
+pouco de lado ~~(a dificuldade no desenvolvimento também
+contribuiu)~~. Eu não sei se voltarei a desenvolver esse projeto
+em breve, mas **pretendo finalizá-lo algum dia!** <img
+src="./assets/random-theres_a_starman.png"
 style="height: 1rem; width: 2rem"
-alt="there's a starman">
+alt="superman">
 
-You can go to the project repo by clicking
-[here][tic-tac-low-repo-link].
+Você pode ir ao repositório do projeto clicando
+[aqui][tic-tac-low-repo-link].
 
 </details>
 
