@@ -165,7 +165,6 @@ Not so important but some people say that I'm **funny** and
 My top-tier projects
 --------------------
 
-<!-- details from projects table -->
 In this section, you will find the projects that I'm **most proud
 of/consider important**.
 
