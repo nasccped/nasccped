@@ -78,7 +78,7 @@ etc) 🧑‍🔬
 - **Conceito de low-level:** na faculdade, pude aprender um monte de
 conceitos aplicados a [linguagem C][c-lang-link], como ponteiros &
 referências, alocação de memória ( <img src="./assets/random-skull.png"
-style="height: 1rem" alt="dude"> 👈 eu), arquivos C e arquivos Header
+style="height: 1rem" alt="cara"> 👈 eu), arquivos C e arquivos Header
 - **Banco de dados:** banco de dados relacional foi aprendido também
 ([MySQL 🐬 only][mysql-link]), seus conceitos e uso
 - **Paradigma POO:** programação orientada a objeto e seus conceitos
