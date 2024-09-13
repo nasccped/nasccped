@@ -123,11 +123,12 @@ através da comunicação prova muito sobre o seu potencial. 🗿
 
 <details>
 
-<summary><strong>Extras 🪐</strong></summary><br>
+<summary><strong>Outros 🪐</strong></summary><br>
 
-Things that are not so import but I still like to mention! 🗣️
+Coisas que não são tão importantes mas eu ainda gostaria de
+mencionar! 🗣️
 
-Technologies that I have already had contact with:
+Tecnologias com as quais eu já tive contato:
 - Python 🐍
 - C 📠
 - Java ☕
@@ -136,28 +137,28 @@ Technologies that I have already had contact with:
 - Scripts 📓 _(Bash & Powershell)_
 - Makefiles ⚒️
 - Web 🌐 _(HTML, CSS, JS)_
-- Rust 🦀 _(I'm still learning)_
+- Rust 🦀 _(Ainda aprendendo)_
 - PHP 🐘
 - Git 🏷️
 
-What I like? _(job related)_
-- programming ⌨️ _(obviously)_
-- learn new things 📚
-- beat my tasks ✅
-- have my potential recognized 💪
-- develop really, really, **REALLY** cool things 🎁
-- contribute with all people around me 🤝
+O que eu gosto? _(relacionado ao trabalho)_
+- programação ⌨️ _(óbvio)_
+- aprender coisas novas 📚
+- realizar minhas tarefas ✅
+- ter meu potencial reconhecido 💪
+- desenvolver coisas muito, muito, **MUITO** legais 🎁
+- contribuir com as pessoas ao meu redor 🤝
 
-What I like too? _(non job related)_
-- my friends 🫂
-- draws ✏️
-- arts 🖼️
-- some games 🕹️
-- music production 🎺
-- animals 🦜
+O que mais eu gosto? _(não relacionado ao trabalho)_
+- meus amigos 🫂
+- desenhos ✏️
+- artes 🖼️
+- alguns jogos 🕹️
+- produção musical 🎺
+- animais 🦜
 
-Not so important but some people say that I'm **funny** and
-**responsible.** They like having me around 🗿
+Isso não é tão importante, mas algumas pessoas dizem que eu sou
+**engraçado** e **responsável**, que gostam de me ter por perto 🗿
 
 </details>
 
