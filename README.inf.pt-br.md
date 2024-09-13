@@ -247,30 +247,30 @@ Você pode ir ao repositório do projeto clicando
 
 
 
-<!-- personal task list -------------------------------------------->
-My tasklist/goals
------------------
+<!-- lista pessoa de tarefas --------------------------------------->
+Minhas tarefas/objetivos
+------------------------
 
-Do you want to know what my **next personal/professional goals are?**
-Check my tasklist: 📋
+Quer saber é qual minha **próxima meta pessoal/profissional?**
+Dê uma olhada na lista: 📋
 
 
-Consider:
-- [X] ✅ As already done
-- [ ] ❌ Not done yet
+Considere:
+- [X] ✅ Já realizado
+- [ ] ❌ Ainda não realizado
 
 ---
 
 <details>
 
-<summary><strong>Goals to 2024</strong></summary><br>
+<summary><strong>Metas para 2024</strong></summary><br>
 
-- [X] Upload my first official VS Code extension 🧩
-- [ ] Build some cool profile README 🌟
-- [ ] Do several updates to [Kojamp Man][kojamp-man-link] project 🪛
-- [ ] Get my first job as a programmer or something related 👨‍🏭
-- [ ] Start a in-depth Rust-lang learning 🦀
-- [ ] Maybe, turn back to [Tic Tac Low][tic-tac-low-repo-link] development 🕹️
+- [X] Publicar minha primeira extensão oficial do VS Code 🧩
+- [ ] Construir um README legal no perfil 🌟
+- [ ] Trazer diversas atualizações para o projeto [Kojamp Man][kojamp-man-link] 🪛
+- [ ] Conseguir o meu primeiro emprego como programador ou algo relacionado 👨‍🏭
+- [ ] Aprender a linguagem Rust de maneira mais aprofundada 🦀
+- [ ] Talvez, voltar a desenvolver o [Tic Tac Low][tic-tac-low-repo-link] 🕹️
 
 </details>
 
