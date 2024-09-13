@@ -263,6 +263,7 @@ Consider:
 <summary><strong>Goals to 2024</strong></summary><br>
 
 - [X] Upload my first official VS Code extension 🧩
+- [ ] Build some cool profile README 🌟
 - [ ] Do several updates to [Kojamp Man][kojamp-man-link] project 🪛
 - [ ] Get my first job as a programmer or something related 👨‍🏭
 - [ ] Start a in-depth Rust-lang learning 🦀
