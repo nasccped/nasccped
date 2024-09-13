@@ -101,23 +101,23 @@ versionamento 🏷️, colaboração 🫂 e similares.
 
 <details>
 
-<summary><strong>Soft skills 🧠</strong></summary><br>
+<summary><strong>Habilidades Pessoais 🧠</strong></summary><br>
 
-- **Analytical/critical thinking:** skill developed almost
-automatically when we study programming, also, very important to
-problem solving. 🎯
-- **Self-didaction & constant learning:** When it comes to
-technology, all the information we need is available on the internet.
-Knowing how to make the most of it is essential to becoming a
-successful programmer! 🧑‍💻
-- **Problem Solving:** previously mentioned, problem solving is
-basically the reason the programmer exists. Little time is spent
-building new things but a lot is spent repairing the old ones. 🕰️
-- **Comunication:** Regardless of the area in which you work, you
-will only be able to be a good professional if you are able to
-create, explain and support your ideas and arguments. Knowing how to
-convince others through communication proves a lot about your
-potential. 🗿
+- **Pensamento crítico/analítico:** habilidade desenvolvida quase que
+automaticamente quando estudamos programação, mas ainda assim, muito
+importante para solução de problemas. 🎯
+- **Auto-didática & aprendizado constante:** quando se trata de
+tecnologia, todas a informação que precisamos está disponível na
+internet. Saber como aproveitar isso ao máximo é essencial para se
+tornar um programador de sucesso! 🧑‍💻
+- **Resolução de Problemas:** anteriormente citado, resolver problemas
+é basicamente o motivo pelo qual o programador existe. Pouco tempo é
+gasto construindo coisas novas, mas muito tempo é gasto reparando as
+coisas velhas. 🕰️
+- **Comunicação:** independentemente da área na qual você trabalha,
+você só será um bom profissional for capaz de criar, explicar e
+sustentar suas ideias e argumentos. Saber como convencer os outros
+através da comunicação prova muito sobre o seu potencial. 🗿
 
 </details>
 
