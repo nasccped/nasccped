@@ -11,7 +11,6 @@
 > > alt="bandeira do Brasil">** do meu `README`.
 > > Caso queira, pode acessar a página em:
 > > - [inglês (english <img src="./assets/flag-usa.png" style="height: 1rem" alt="bandeira dos EUA">)][profile-link]
-> > - [espanhol (español <img src="./assets/flag-bolivia.png" style="height: 1rem" alt="bandeira da Bolívia">)][frm-readme-es-link]
 >
 > ---
 >
@@ -54,7 +53,6 @@ Você pode também me enviar um e-mail clicando [aqui][sendme-an-email] 📩
 
 <!-- links -->
 [profile-link]: https://github.com/nasccped
-[frm-readme-es-link]: ./README.frm.es.md
 [inf-readme-ptbr-link]: ./README.inf.pt-br.md
 [cruzeiro-do-sul-link]: https://www.cruzeirodosul.edu.br/
 [tic-tac-low-repo]: https://github.com/nasccped/tic-tac-low

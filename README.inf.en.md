@@ -15,27 +15,28 @@
 >
 > Some notes to help you in the navigation:
 >
-> > This is an informal version of my profile's README. You can
-> > access the official one by [clicking here][github-profile-link] 👈
+> ---
+>
+> This is an informal version of my profile's README. You can
+> access the official one by [clicking here][github-profile-link] 👈
 >
 > ---
 >
-> > **No english?** <img src="./assets/random-no_something_meme.jpg" style="height: 1rem; width: 2rem" alt="no english?"><br>
-> > **No problem!** <img src="./assets/random-theres_a_starman.png" style="height: 1rem; width: 2rem" alt="no worry, son">
-> >
-> > You can access the same page at different languages, such as:
-> > - [portuguese (português <img src="./assets/flag-brazil.png" style="height: 1rem" alt="Brazil flag">)][inf-readme-ptbr-link]
-> > - [spanish  (spañol <img src="./assets/flag-bolivia.png" style="height: 1rem" alt="Bolivia flag">)][inf-readme-es-link]
+> **No english?** <img src="./assets/random-no_something_meme.jpg" style="height: 1rem; width: 2rem" alt="no english?"><br>
+> **No problem!** <img src="./assets/random-theres_a_starman.png" style="height: 1rem; width: 2rem" alt="no worry, son">
+>
+> You can access the same page at different languages, such as:
+> - [portuguese (português <img src="./assets/flag-brazil.png" style="height: 1rem" alt="Brazil flag">)][inf-readme-ptbr-link]
 >
 > ---
 >
-> > In this README, you will find some _&lt;details&gt;_ tags marked as
-> > `'▸'`
-> >
-> > It's like a 'message' block that maintains the message stored-in.
-> >
-> > Click on it to see what these blocks stores. Click again and turn
-> > back to normal view!
+> In this README, you will find some _&lt;details&gt;_ tags marked as
+> `'▸'`
+>
+> It's like a 'message' block that maintains the message stored-in.
+>
+> Click on it to see what these blocks stores. Click again and turn
+> back to normal view!
 
 
 <!-- description text ---------------------------------------------->
