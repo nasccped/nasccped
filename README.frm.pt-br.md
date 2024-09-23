@@ -5,20 +5,20 @@
 >
 > Se você está lendo isso, precisa saber que:
 >
-> > Você está atualmente lendo a **versão português <img
-> > src="./assets/flag-brazil.png"
-> > style="height: 1rem"
-> > alt="bandeira do Brasil">** do meu `README`.
-> > Caso queira, pode acessar a página em:
-> > - [inglês (english <img src="./assets/flag-usa.png" style="height: 1rem" alt="bandeira dos EUA">)][profile-link]
+> Você está atualmente lendo a **versão português <img
+> src="./assets/flag-brazil.png"
+> style="height: 1rem"
+> alt="bandeira do Brasil">** do meu `README`.
+> Caso queira, pode acessar a página em:
+> - [inglês (english <img src="./assets/flag-usa.png" style="height: 1rem" alt="bandeira dos EUA">)][profile-link]
 >
 > ---
 >
-> > Essa é uma versão simplificada do `README` em meu perfil
-> >
-> > Se você tem curiosidade sobre uma versão mais divertida,
-> > descritiva e informal, você pode ir para _README.inf.pt-br.md_
-> > clicando [aqui][inf-readme-ptbr-link] 👈
+> Essa é uma versão simplificada do `README` em meu perfil
+>
+> Se você tem curiosidade sobre uma versão mais divertida,
+> descritiva e informal, você pode ir para _README.inf.pt-br.md_
+> clicando [aqui][inf-readme-ptbr-link] 👈
 
 
 <!-- seção sobre mim -->
