@@ -58,4 +58,4 @@ Você pode também me enviar um e-mail clicando [aqui][sendme-an-email] 📩
 [tic-tac-low-repo]: https://github.com/nasccped/tic-tac-low
 [kojamp-man-repo]: https://github.com/nasccped/kojamp-man
 [linkedin-link]: https://www.linkedin.com/in/nasccped/
-[sendme-an-email]: mailto:pdbt.conteact@gmail.com?subject=Coloque%20o%20t%C3%ADtulo%20da%20mensagem%20aqui%20%20%E2%9C%8D%EF%B8%8F&body=N%C3%A3o%20se%20esque%C3%A7a%20de%20adicionar...%20bem...%20a%20mensagem%20%F0%9F%98%85
+[sendme-an-email]: mailto:pdbt.contact@gmail.com?subject=Coloque%20o%20t%C3%ADtulo%20da%20mensagem%20aqui%20%20%E2%9C%8D%EF%B8%8F&body=N%C3%A3o%20se%20esque%C3%A7a%20de%20adicionar...%20bem...%20a%20mensagem%20%F0%9F%98%85
