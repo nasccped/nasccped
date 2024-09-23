@@ -15,28 +15,29 @@
 >
 > Algumas infos para te ajudarem na navegação:
 >
-> > Essa é uma versão informal do meu README. Você pode acessar a
-> > versão oficial [clicando aqui][frm-readme-ptbr-link] 👈
+> ---
+>
+> Essa é uma versão informal do meu README. Você pode acessar a
+> versão oficial [clicando aqui][frm-readme-ptbr-link] 👈
 >
 > ---
 >
-> > **Sem inglês?** <img src="./assets/random-no_something_meme.jpg" style="height: 1rem; width: 2rem" alt="sem inglês?"><br>
-> > **Sem problema!** <img src="./assets/random-theres_a_starman.png" style="height: 1rem; width: 2rem" alt="não se preocupe, rapaz">
-> >
-> > Você pode acessar a mesma página em diferentes linguages, como
-> > por exemplo em:
-> > - [inglês (english <img src="./assets/flag-usa.png" style="height: 1rem" alt="bandeira dos EUA">)][inf-readme-en-link]
-> > - [espanhol (spañol <img src="./assets/flag-bolivia.png" style="height: 1rem" alt="bandeira da Bolivia">)][inf-readme-es-link]
+> **Sem português?** <img src="./assets/random-no_something_meme.jpg" style="height: 1rem; width: 2rem" alt="sem inglês?"><br>
+> **Sem problema!** <img src="./assets/random-theres_a_starman.png" style="height: 1rem; width: 2rem" alt="não se preocupe, rapaz">
+>
+> Você pode acessar a mesma página em diferentes linguages, como
+> por exemplo em:
+> - [inglês (english <img src="./assets/flag-usa.png" style="height: 1rem" alt="bandeira dos EUA">)][inf-readme-en-link]
 >
 > ---
 >
-> > Nesse README, você vai encontrar algumas tags _&lt;details&gt;_
-> > marcadas por `'▸'`
-> >
-> > São como bloco de 'mensagens' que mantem a menssagem escondida.
-> >
-> > Clique nisso pra ver a mensagem armazenada. Clique de novo e o
-> > bloco volta ao normal!
+> Nesse README, você vai encontrar algumas tags _&lt;details&gt;_
+> marcadas por `'▸'`
+>
+> São como bloco de 'mensagens' que mantem a menssagem escondida.
+>
+> Clique nisso pra ver a mensagem armazenada. Clique de novo e o
+> bloco volta ao normal!
 
 
 <!-- texto de descrição -------------------------------------------->
@@ -338,7 +339,6 @@ alt="bandeira do Brasil">
 <!-- links -->
 [frm-readme-ptbr-link]: ./README.frm.pt-br.md
 [inf-readme-en-link]: ./README.inf.en.md
-[inf-readme-es-link]: ./README.inf.es.md
 [cruzeiro-do-sul-link]: https://www.cruzeirodosul.edu.br/
 [c-lang-link]: https://www.w3schools.com/c/c_intro.php
 [mysql-link]: https://www.mysql.com/
