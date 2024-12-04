@@ -22,7 +22,7 @@ Experiences
 
 <p>
 
-  <img alt="calendar draw" src="./assets/draw-calendar.png" align="left" style="height: 5rem">
+  <img alt="calendar draw" src="./assets/draw-calendar.png" align="left" style="height: 7rem">
 
   I've already in some academic projects, such as cliente-server
   programming with [PHP][php-link] and [MySQL][mysql-link]. I also
@@ -40,7 +40,7 @@ Projects
 
 <p>
 
-  <img alt="trophy draw" src="./assets/draw-trophy.png" align="left" style="height: 5rem">
+  <img alt="trophy draw" src="./assets/draw-trophy.png" align="left" style="height: 7rem">
 
   Here, you can check my personal/professional projects:
 
