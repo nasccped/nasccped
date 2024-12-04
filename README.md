@@ -12,49 +12,43 @@
 Currently studying Computer Science at
 [Cruzeiro do Sul <img src="./assets/logo-cruzeiro_do_sul.png"
 style="height:1rem"
-alt="Cruzeiro do Sul logo">][cruzeiro-do-sul-website] university.
+alt="Cruzeiro do Sul logo">][cruzeiro-do-sul-website] university and
+interest in _software development_ and _data related_ things...
 
 
 
 Experiences
 -----------
 
-I've never been in a real world job. I only have academic/personal
-experience. I've already had contact with the following technologies:
+<p>
 
-- **`Python 🐍`** was my first programming language ever. I really
-                  liked it, but it was a bit oversaturated
+  <img alt="calendar draw" src="./assets/draw-calendar.png" align="left" style="width: 400px">
 
-- **`PHP 🐘`** a good server-side language. Not a big fan of it, but it
-               does what it promises
+  I've already in some academic projects, such as cliente-server
+  programming with [PHP][php-link] and [MySQL][mysql-link]. I also
+  gained knowledge in logic and structured data ([Python][python-link],
+  [Java][java-link], [C lang _(w3schools)_][c-link] and more) with game
+  development and contextualized challenges.
 
-- **`SQL 🗂️`** I've used it to build some academic exercises
+  I also know [Git][git-link], obviously!
 
-- **`Web-Dev 🌐`** I mean HTML, CSS and JS (not libs/frameworks yet)
-
-- **`Git 🏷️`** Big fan of this guy 👈
-
-- **`C/H Lang ⚙️`** My most _'hands on'_ language. There's a lot of
-                   bugs segmentation faults, etc. But it's still a
-                   greate language at all
-
-- **`Java ☕`** I don't understand why everyone hates this language.
-                It's a lot verbose, but does exactly what it promises
-                and much more. A great language at all
-
-- **`Others Not So Important`**
-
+</p>
 
 
 Projects
 --------
 
-Here, you can check my personal/professional projects:
+<p>
 
-- [🥇 Kojamp Man][kojamp-man], a Kotlin/Java mini project manager
-- [🥈 GPTheme Plus][gptheme-plus], a VS Code theme
-- [🥉 Tic Tac Low][tic-tac-low], a tic tac toe in a low level language
+  <img alt="trophy draw" src="./assets/draw-trophy.png" align="left" style="width: 400px">
 
+  Here, you can check my personal/professional projects:
+
+  - [🥇 Kojamp Man][kojamp-man], a Kotlin/Java mini project manager
+  - [🥈 GPTheme Plus][gptheme-plus], a VS Code theme
+  - [🥉 Tic Tac Low][tic-tac-low], a tic tac toe in a low level language
+
+</p>
 
 
 Contact
@@ -69,6 +63,14 @@ You can send me a [e-mail][send-me-email] too.
 
 <!-- links -->
 [cruzeiro-do-sul-website]: https://www.cruzeirodosul.edu.br/
+
+[php-link]: https://www.php.net/
+[mysql-link]: https://www.mysql.com/
+[python-link]: https://www.python.org/
+[java-link]: https://www.java.com/en/
+[c-link]: https://www.w3schools.com/c/
+[git-link]: https://git-scm.com/
+
 [kojamp-man]: https://github.com/nasccped/kojamp-man
 [gptheme-plus]: https://github.com/nasccped/vsc-gptheme-plus-extension
 [tic-tac-low]: https://github.com/nasccped/tic-tac-low
