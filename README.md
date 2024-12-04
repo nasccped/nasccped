@@ -15,6 +15,9 @@ style="height:1rem"
 alt="Cruzeiro do Sul logo">][cruzeiro-do-sul-website] university and
 interest in _software development_ and _data related_ things...
 
+<br>
+<br>
+
 
 
 Experiences
@@ -34,6 +37,10 @@ Experiences
 
 </p>
 
+<br>
+<br>
+
+
 
 Projects
 --------
@@ -49,6 +56,10 @@ Projects
   - [🥉 Tic Tac Low][tic-tac-low], a tic tac toe in a low level language
 
 </p>
+
+<br>
+<br>
+
 
 
 Contact
