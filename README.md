@@ -22,19 +22,13 @@ interest in _software development_ and _data related_ things...
 Experiences
 -----------
 
-<p>
+I've already in some academic projects, such as cliente-server
+programming with [PHP][php-link] and [MySQL][mysql-link]. I also
+gained knowledge in logic and structured data ([Python][python-link],
+[Java][java-link], [C lang _(w3schools)_][c-link] and more) with game
+development and contextualized challenges.
 
-  <img alt="calendar draw" src="./assets/draw-calendar.png" align="left" style="height: 7rem">
-
-  I've already in some academic projects, such as cliente-server
-  programming with [PHP][php-link] and [MySQL][mysql-link]. I also
-  gained knowledge in logic and structured data ([Python][python-link],
-  [Java][java-link], [C lang _(w3schools)_][c-link] and more) with game
-  development and contextualized challenges.
-
-  I also know [Git][git-link], obviously!
-
-</p>
+I also know [Git][git-link], obviously!
 
 <br>
 
@@ -43,17 +37,11 @@ Experiences
 Projects
 --------
 
-<p>
+Here, you can check my personal/professional projects:
 
-  <img alt="trophy draw" src="./assets/draw-trophy.png" align="left" style="height: 7rem">
-
-  Here, you can check my personal/professional projects:
-
-  - [🥇 Kojamp Man][kojamp-man], a Kotlin/Java mini project manager
-  - [🥈 GPTheme Plus][gptheme-plus], a VS Code theme
-  - [🥉 Tic Tac Low][tic-tac-low], a tic tac toe in a low level language
-
-</p>
+- [🥇 Kojamp Man][kojamp-man], a Kotlin/Java mini project manager
+- [🥈 GPTheme Plus][gptheme-plus], a VS Code theme
+- [🥉 Tic Tac Low][tic-tac-low], a tic tac toe in a low level language
 
 <br>
 
