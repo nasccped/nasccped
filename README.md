@@ -16,7 +16,6 @@ alt="Cruzeiro do Sul logo">][cruzeiro-do-sul-website] university and
 interest in _software development_ and _data related_ things...
 
 <br>
-<br>
 
 
 
@@ -38,7 +37,6 @@ Experiences
 </p>
 
 <br>
-<br>
 
 
 
@@ -57,7 +55,6 @@ Projects
 
 </p>
 
-<br>
 <br>
 
 
