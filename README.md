@@ -15,8 +15,6 @@ style="height:1rem"
 alt="Cruzeiro do Sul logo">][cruzeiro-do-sul-website] university and
 interest in _software development_ and _data related_ things...
 
-<br>
-
 
 
 Experiences
@@ -30,8 +28,6 @@ development and contextualized challenges.
 
 I also know [Git][git-link], obviously!
 
-<br>
-
 
 
 Projects
@@ -42,8 +38,6 @@ Here, you can check my personal/professional projects:
 - [🥇 Kojamp Man][kojamp-man], a Kotlin/Java mini project manager
 - [🥈 GPTheme Plus][gptheme-plus], a VS Code theme
 - [🥉 Tic Tac Low][tic-tac-low], a tic tac toe in a low level language
-
-<br>
 
 
 
