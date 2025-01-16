@@ -9,40 +9,55 @@
 
 </h4>
 
-Currently studying Computer Science at
+Computer Science student at
 [Cruzeiro do Sul <img src="./assets/logo-cruzeiro_do_sul.png"
 style="height:1rem"
 alt="Cruzeiro do Sul logo">][cruzeiro-do-sul-website] university and
-interest in _software development_ and _data related_ things...
+_CLI/Software Dev._ admirer ❤️
 
 
 
-Experiences
+Knowledge 💡
 -----------
 
-I've already in some academic projects, such as cliente-server
-programming with [PHP][php-link] and [MySQL][mysql-link]. I also
-gained knowledge in logic and structured data ([Python][python-link],
-[Java][java-link], [C lang _(w3schools)_][c-link] and more) with game
-development and contextualized challenges.
+- Intermediate understanding in web programming through academic
+  practical exams ([PHP][php-link] + [MySQL][mysql-link]);
 
-I also know [Git][git-link], obviously!
+- Good understanding about OOP in [Java][java-link] and
+  [Python][python-link];
+
+- Good understanding about memory in [C lang _(w3schools)_][c-link];
+
+- Good understanding about data structures (C + Java);
+
+- Good understanding about DataBases (MySQL);
+
+- Good understanding about [Git][git-link] + **GitHub**, obviously;
+
+- I'm also learning [Rust Lang][rust-link].
 
 
 
-Projects
---------
+Projects 💎
+----------
 
 Here, you can check my personal/professional projects:
 
-- [🥇 Kojamp Man][kojamp-man], a Kotlin/Java mini project manager
-- [🥈 GPTheme Plus][gptheme-plus], a VS Code theme
-- [🥉 Tic Tac Low][tic-tac-low], a tic tac toe in a low level language
+<details>
+<summary>Projects Table</summary>
+
+| Project Name + Link             | Project Description              |
+| :-----------------------------: | :------------------------------: |
+| [🥇 Kojamp Man][kojamp-man]     | Kotlin/Java mini project manager |
+| [🥈 GPTheme Plus][gptheme-plus] | VS Code theme                    |
+| [🥉 Tic Tac Low][tic-tac-low]   | a low level tic-tac-toe game     |
+
+</details>
 
 
 
-Contact
--------
+Contact 📬
+---------
 
 If you're interest in collab, job-contact or something else, consider
 contact me via personal links at my own [profile][my-profile].
@@ -60,6 +75,7 @@ You can send me a [e-mail][send-me-email] too.
 [java-link]: https://www.java.com/en/
 [c-link]: https://www.w3schools.com/c/
 [git-link]: https://git-scm.com/
+[rust-link]: https://www.rust-lang.org/
 
 [kojamp-man]: https://github.com/nasccped/kojamp-man
 [gptheme-plus]: https://github.com/nasccped/vsc-gptheme-plus-extension
