@@ -4,7 +4,7 @@
 <h4 align="center">
 
 [![CS Student][cs-student]](#)
-[![Likes Programming][likes-programming]](#)
+[![Software Dev.][software-dev]](#)
 [![Looking For A Job][looking-for-a-job]](#)
 
 </h4>
@@ -86,5 +86,5 @@ You can send me a [e-mail][send-me-email] too.
 
 <!-- badges area -->
 [cs-student]: https://img.shields.io/badge/cs_student-F28A17?style=for-the-badge
-[likes-programming]: https://img.shields.io/badge/likes_programming-C24444?style=for-the-badge
+[software-dev]: https://img.shields.io/badge/software%20dev.-C24444?style=for-the-badge
 [looking-for-a-job]: https://img.shields.io/badge/looking_for_a_job-4477B2?style=for-the-badge
