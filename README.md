@@ -13,7 +13,7 @@ Computer Science student at
 [Cruzeiro do Sul <img src="./assets/logo-cruzeiro_do_sul.png"
 style="height:1rem"
 alt="Cruzeiro do Sul logo">][cruzeiro-do-sul-website] university and
-_CLI/Software Dev._ admirer ❤️
+CLI / Software Dev. admirer ❤️
 
 
 
@@ -26,7 +26,7 @@ Knowledge 💡
 - Good understanding about OOP in [Java][java-link] and
   [Python][python-link];
 
-- Good understanding about memory in [C lang _(w3schools)_][c-link];
+- Good understanding about memory in [C lang][c-link];
 
 - Good understanding about data structures (C + Java);
 
