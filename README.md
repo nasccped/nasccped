@@ -46,6 +46,7 @@ Here, you can check my personal/professional projects:
 
 <details>
   <summary>Projects Table</summary>
+<br>
 
 | Project Name + Link             | Project Description                                | Kind                  |
 | :------------------------------ | :------------------------------------------------- | :-------------------- |
