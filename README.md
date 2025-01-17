@@ -66,9 +66,13 @@ You can send me a [e-mail][send-me-email] too.
 
 
 
+<!-- badges area -->
+[cs-student]: https://img.shields.io/badge/cs_student-F28A17?style=for-the-badge
+[software-dev]: https://img.shields.io/badge/software%20dev.-C24444?style=for-the-badge
+[looking-for-a-job]: https://img.shields.io/badge/looking_for_a_job-4477B2?style=for-the-badge
+
 <!-- resource links -->
 [cruzeiro-do-sul-website]: https://www.cruzeirodosul.edu.br/
-
 [php-link]: https://www.php.net/
 [mysql-link]: https://www.mysql.com/
 [python-link]: https://www.python.org/
@@ -85,8 +89,3 @@ You can send me a [e-mail][send-me-email] too.
 <!-- contact links -->
 [my-profile]: https://github.com/nasccped
 [send-me-email]: mailto:pdbt.contact@gmail.com?subject=Put%20the%20Message%20title%20here%20%E2%9C%8D%EF%B8%8F&body=Don't%20forget%20to%20add...%20well...%20the%20message%20%F0%9F%98%85
-
-<!-- badges area -->
-[cs-student]: https://img.shields.io/badge/cs_student-F28A17?style=for-the-badge
-[software-dev]: https://img.shields.io/badge/software%20dev.-C24444?style=for-the-badge
-[looking-for-a-job]: https://img.shields.io/badge/looking_for_a_job-4477B2?style=for-the-badge
