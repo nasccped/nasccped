@@ -46,11 +46,12 @@ Here, you can check my personal/professional projects:
 <details>
 <summary>Projects Table</summary>
 
-| Project Name + Link             | Project Description              | Kind                 |
-| :------------------------------ | :------------------------------- | :------------------- |
-| [🥇 Kojamp Man][kojamp-man]     | Kotlin/Java mini project manager | Personal / Comercial |
-| [🥈 GPTheme Plus][gptheme-plus] | VS Code theme                    | Personal / Comercial |
-| [🥉 Tic Tac Low][tic-tac-low]   | a low level tic-tac-toe game     | Personal             |
+| Project Name + Link             | Project Description                                | Kind                  |
+| :------------------------------ | :------------------------------------------------- | :-------------------- |
+| [🥇 Kojamp Man][kojamp-man]     | Kotlin/Java mini project manager                   |  Personal / Comercial |
+| [🥈 GPTheme Plus][gptheme-plus] | VS Code theme                                      | *Personal / Comercial |
+| [🥉 Tic Tac Low][tic-tac-low]   | a low level tic-tac-toe game                       |  Personal             |
+| [PyCriptoNita][pycriptonita]    | Python script designed to encrypt and decrypt text | *Contribution         |
 
 </details>
 
@@ -85,6 +86,7 @@ You can send me a [e-mail][send-me-email] too.
 [kojamp-man]: https://github.com/nasccped/kojamp-man
 [gptheme-plus]: https://github.com/nasccped/vsc-gptheme-plus-extension
 [tic-tac-low]: https://github.com/nasccped/tic-tac-low
+[pycriptonita]: https://github.com/Felici4no/PyCriptoNita
 
 <!-- contact links -->
 [my-profile]: https://github.com/nasccped
