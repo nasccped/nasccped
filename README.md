@@ -46,11 +46,11 @@ Here, you can check my personal/professional projects:
 <details>
 <summary>Projects Table</summary>
 
-| Project Name + Link             | Project Description              |
-| :------------------------------ | :------------------------------- |
-| [🥇 Kojamp Man][kojamp-man]     | Kotlin/Java mini project manager |
-| [🥈 GPTheme Plus][gptheme-plus] | VS Code theme                    |
-| [🥉 Tic Tac Low][tic-tac-low]   | a low level tic-tac-toe game     |
+| Project Name + Link             | Project Description              | Kind                 |
+| :------------------------------ | :------------------------------- | :------------------- |
+| [🥇 Kojamp Man][kojamp-man]     | Kotlin/Java mini project manager | Personal / Comercial |
+| [🥈 GPTheme Plus][gptheme-plus] | VS Code theme                    | Personal / Comercial |
+| [🥉 Tic Tac Low][tic-tac-low]   | a low level tic-tac-toe game     | Personal             |
 
 </details>
 
