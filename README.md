@@ -69,6 +69,13 @@ You can send me a [e-mail][send-me-email] too.
 
 
 
+My configs ⚙️
+------------
+
+Did you want to check my personal configs for study and work?
+[click here 👈][configs-path]
+
+
 <!-- badges area -->
 [cs-student]: https://img.shields.io/badge/cs_student-F28A17?style=for-the-badge
 [software-dev]: https://img.shields.io/badge/software%20dev.-C24444?style=for-the-badge
@@ -83,6 +90,7 @@ You can send me a [e-mail][send-me-email] too.
 [c-link]: https://www.w3schools.com/c/
 [git-link]: https://git-scm.com/
 [rust-link]: https://www.rust-lang.org/
+[configs-path]: https://github.com/nasccped/nasccped/tree/main/configs
 
 <!-- project links -->
 [kojamp-man]: https://github.com/nasccped/kojamp-man
