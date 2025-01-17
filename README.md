@@ -66,7 +66,7 @@ You can send me a [e-mail][send-me-email] too.
 
 
 
-<!-- links -->
+<!-- resource links -->
 [cruzeiro-do-sul-website]: https://www.cruzeirodosul.edu.br/
 
 [php-link]: https://www.php.net/
@@ -77,10 +77,12 @@ You can send me a [e-mail][send-me-email] too.
 [git-link]: https://git-scm.com/
 [rust-link]: https://www.rust-lang.org/
 
+<!-- project links -->
 [kojamp-man]: https://github.com/nasccped/kojamp-man
 [gptheme-plus]: https://github.com/nasccped/vsc-gptheme-plus-extension
 [tic-tac-low]: https://github.com/nasccped/tic-tac-low
 
+<!-- contact links -->
 [my-profile]: https://github.com/nasccped
 [send-me-email]: mailto:pdbt.contact@gmail.com?subject=Put%20the%20Message%20title%20here%20%E2%9C%8D%EF%B8%8F&body=Don't%20forget%20to%20add...%20well...%20the%20message%20%F0%9F%98%85
 
