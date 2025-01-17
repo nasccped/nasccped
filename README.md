@@ -47,7 +47,7 @@ Here, you can check my personal/professional projects:
 <summary>Projects Table</summary>
 
 | Project Name + Link             | Project Description              |
-| :-----------------------------: | :------------------------------: |
+| :------------------------------ | :------------------------------- |
 | [🥇 Kojamp Man][kojamp-man]     | Kotlin/Java mini project manager |
 | [🥈 GPTheme Plus][gptheme-plus] | VS Code theme                    |
 | [🥉 Tic Tac Low][tic-tac-low]   | a low level tic-tac-toe game     |
