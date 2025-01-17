@@ -37,8 +37,15 @@ Projects 💎
 
 Here, you can check my personal/professional projects:
 
+> [!IMPORTANT]
+>
+> As you can see, some projects have a `*` in the **kind** column.
+> This means that this repository can have its url changed or even be
+> removed from the server. If there is, send an issue so I can fix
+> it.
+
 <details>
-<summary>Projects Table</summary>
+  <summary>Projects Table</summary>
 
 | Project Name + Link             | Project Description                                | Kind                  |
 | :------------------------------ | :------------------------------------------------- | :-------------------- |
