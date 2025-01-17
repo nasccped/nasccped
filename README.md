@@ -35,7 +35,7 @@ Knowledge 💡
 Projects 💎
 ----------
 
-Here, you can check my personal/professional projects:
+Here, you can check my personal, professional and comercial projects:
 
 > [!IMPORTANT]
 >
