@@ -50,9 +50,9 @@ Here, you can check my personal, professional and comercial projects:
 
 | Project Name + Link             | Project Description                                | Kind                  |
 | :------------------------------ | :------------------------------------------------- | :-------------------- |
-| [🥇 Kojamp Man][kojamp-man]     | Kotlin/Java mini project manager                   |  Personal / Comercial |
-| [🥈 GPTheme Plus][gptheme-plus] | VS Code theme                                      | *Personal / Comercial |
-| [🥉 Tic Tac Low][tic-tac-low]   | a low level tic-tac-toe game                       |  Personal             |
+| 🥇 [Kojamp Man][kojamp-man]     | Kotlin/Java mini project manager                   |  Personal / Comercial |
+| 🥈 [GPTheme Plus][gptheme-plus] | VS Code theme                                      | *Personal / Comercial |
+| 🥉 [Tic Tac Low][tic-tac-low]   | a low level tic-tac-toe game                       |  Personal             |
 | [PyCriptoNita][pycriptonita]    | Python script designed to encrypt and decrypt text | *Contribution         |
 
 </details>
