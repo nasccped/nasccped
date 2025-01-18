@@ -12,4 +12,4 @@ Check out my configs (or turn back to the
 
 <!-- links sections -->
 [profile-link]: https://github.com/nasccped
-[bash-terminal]: ./bashterminal
+[bash-terminal]: ./bashterminal/README.md

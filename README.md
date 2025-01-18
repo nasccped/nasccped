@@ -90,7 +90,7 @@ Did you want to check my personal configs for study and work?
 [c-link]: https://www.w3schools.com/c/
 [git-link]: https://git-scm.com/
 [rust-link]: https://www.rust-lang.org/
-[configs-path]: https://github.com/nasccped/nasccped/tree/main/configs
+[configs-path]: https://github.com/nasccped/nasccped/tree/main/configs/README.md
 
 <!-- project links -->
 [kojamp-man]: https://github.com/nasccped/kojamp-man
