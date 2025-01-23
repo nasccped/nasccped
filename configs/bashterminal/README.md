@@ -8,8 +8,6 @@ Clone repo and move files can be borigin a lot, so you can just
 
 All necessary content will be disposed at `src/.bashrc`. Just copy
 it to your local `.bashrc` (probably located in your _home/USERNAME_
-path). [Git program][git-link] and [Nerd Fonts][nerd-fonts] will be
-necessary!
+path). [Git program][git-link] will be necessary!
 
 [git-link]: https://git-scm.com/downloads
-[nerd-fonts]: https://www.nerdfonts.com/
