@@ -28,9 +28,21 @@ get_time() {
 
 # function to get current directory
 get_current_directory() {
-  # get fullpath dir, split it and filter the last name. print the result
+
   local cur_dir
-  cur_dir=$(echo $(pwd) | rev | cut -d'/' -f 1 | rev)
+  # get full path dir
+  cur_dir=$(pwd)
+
+  # if it's home, replace by '~'
+  if [ "$cur_dir" == "$HOME" ]; then
+    cur_dir="~"
+
+  # else, split each dir name and get the last one
+  else
+    cur_dir=$(echo $(pwd) | rev | cut -d'/' -f 1 | rev)
+  fi
+
+  # print
   echo -e "${WHITE_ESCAPE}dir:$cur_dir"
 }
 
