@@ -12,54 +12,45 @@ alias ls='ls --color=auto'
 
 # better escape namming
 RESET_ESCAPE="\e[0m"
-RED_ESCAPE="\e[1;31m"
 GREEN_ESCAPE="\e[1;32m"
 YELLOW_ESCAPE="\e[1;33m"
-BLUE_ESCAPE="\e[1;34m"
 WHITE_ESCAPE="\e[1;37m"
+ORANGE_ESCAPE="\e[1;38;5;202m"
 
 # function to get current time
-get_time() {
-  # get date by format + echo it
-  local local_time
-  local_time=$(date +"%H:%M")
-  echo -e "${WHITE_ESCAPE}[${GREEN_ESCAPE}$local_time${WHITE_ESCAPE}]"
+get_hostname() {
+  local local_hostname
+  local_hostname=$(hostname)
+  echo -e "${GREEN_ESCAPE}$local_hostname${WHITE_ESCAPE}"
+}
+
+# function to get username
+get_username() {
+  local local_username
+  local_username=$(whoami)
+  echo -e "${YELLOW_ESCAPE}$local_username${WHITE_ESCAPE}"
 }
 
 # function to get current directory
 get_current_directory() {
-
   local cur_dir
-  # get full path dir
   cur_dir=$(pwd)
-
-  # if it's home, replace by '~'
   if [ "$cur_dir" == "$HOME" ]; then
     cur_dir="~"
-
-  # else, split each dir name and get the last one
   else
     cur_dir=$(echo $(pwd) | rev | cut -d'/' -f 1 | rev)
   fi
-
-  # print
-  echo -e "${WHITE_ESCAPE}dir:$cur_dir"
+  echo -e "${WHITE_ESCAPE} $cur_dir"
 }
 
 #functions to get git branch
 get_git_branch() {
-  # get branch
   local branch
   branch=$(git branch 2> /dev/null | grep '*' | sed 's/* //')
-
-  # if no branch returned, replace value with '?'
-  if [ -z "${branch}" ]; then
-    branch="?"
+  if [ ! -z "${branch}" ]; then
+    echo -e " ${ORANGE_ESCAPE} $branch${WHITE_ESCAPE}"
   fi
-
-  # echo it
-  echo -e "${WHITE_ESCAPE}[${BLUE_ESCAPE}git:$branch${WHITE_ESCAPE}]"
 }
 
 # exporting the prompt
-export PS1="\$(get_time) \$(get_current_directory) \$(get_git_branch)\$ $RESET_ESCAPE"
+export PS1="$WHITE_ESCAPE[\$(get_hostname).\$(get_username) \$(get_current_directory)\$(get_git_branch)]\$ $RESET_ESCAPE"
