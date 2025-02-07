@@ -28,6 +28,9 @@ Here, you can check my personal, professional and comercial projects:
 > This means that this repository can have its url changed or even be
 > removed from the server. If there is, send an issue so I can fix
 > it.
+>
+> If you're interested in some of my configs, I have a specific
+> folder for it. You can check my by [clicking here][configs-path]!
 
 <details>
   <summary>Projects Table</summary>
@@ -52,13 +55,6 @@ contact me via personal links at my own [profile][my-profile].
 
 You can send me a [e-mail][send-me-email] too.
 
-
-
-My configs ⚙️
-------------
-
-Did you want to check my personal configs for study and work?
-[click here 👈][configs-path]
 
 
 <!-- badges area -->
