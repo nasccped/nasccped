@@ -17,21 +17,6 @@ CLI / Software Dev. admirer ❤️
 
 
 
-Knowledge 💡
------------
-
-- Intermediate understanding in web programming through academic
-  practical exams ([PHP][php-link] + [MySQL][mysql-link]);
-- Good understanding about OOP in [Java][java-link] and
-  [Python][python-link];
-- Good understanding about memory in [C lang][c-link];
-- Good understanding about data structures (C + Java);
-- Good understanding about DataBases (MySQL);
-- Good understanding about [Git][git-link] + **GitHub**, obviously;
-- I'm also learning [Rust Lang][rust-link].
-
-
-
 Projects 💎
 ----------
 
