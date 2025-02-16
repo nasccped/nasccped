@@ -62,7 +62,7 @@ You can send me a [e-mail][send-me-email] too.
 [cs-student]: https://img.shields.io/badge/cs_student-759240?style=for-the-badge
 [software-dev]: https://img.shields.io/badge/software%20dev.-F28A17?style=for-the-badge
 [looking-for-a-job]: https://img.shields.io/badge/looking_for_a_job-C24444?style=for-the-badge
-[check-resumes]: https://img.shields.io/badge/check_resumes-4477B2?style=for-the-badge
+[check-resumes]: https://img.shields.io/badge/check_resumes_(click_me)-4477B2?style=for-the-badge
 
 <!-- resource links -->
 [cruzeiro-do-sul-website]: https://www.cruzeirodosul.edu.br/
