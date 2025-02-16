@@ -54,7 +54,10 @@ Contact 📬
 If you're interest in collab, job-contact or something else, consider
 contact me via personal links at my own [profile][my-profile].
 
-You can send me a [e-mail][send-me-email] too.
+You can send me an [e-mail][send-me-email] or download my resumes by
+clicking on these links (<a href="https://github.com/nasccped/nasccped/blob/main/resumes/nascc-resume-en.pdf" download>en-US</a>,
+<a href="https://github.com/nasccped/nasccped/blob/main/resumes/nascc-resume-pt.pdf" download>pt-BR</a>),
+by the way...
 
 
 
