@@ -4,6 +4,7 @@
 [![CS Student][cs-student]](#)
 [![Software Dev.][software-dev]](#)
 [![Looking For A Job][looking-for-a-job]](#)
+[![Check Resumes][check-resumes]](https://github.com/nasccped/nasccped/tree/main/resumes)
 
 Computer Science student at
 [Cruzeiro do Sul <img src="./assets/logo-cruzeiro_do_sul.png"
@@ -54,9 +55,10 @@ You can send me a [e-mail][send-me-email] too.
 
 
 <!-- badges area -->
-[cs-student]: https://img.shields.io/badge/cs_student-F28A17?style=for-the-badge
-[software-dev]: https://img.shields.io/badge/software%20dev.-C24444?style=for-the-badge
-[looking-for-a-job]: https://img.shields.io/badge/looking_for_a_job-4477B2?style=for-the-badge
+[cs-student]: https://img.shields.io/badge/cs_student-759240?style=for-the-badge
+[software-dev]: https://img.shields.io/badge/software%20dev.-F28A17?style=for-the-badge
+[looking-for-a-job]: https://img.shields.io/badge/looking_for_a_job-C24444?style=for-the-badge
+[check-resumes]: https://img.shields.io/badge/check_resumes-4477B2?style=for-the-badge
 
 <!-- resource links -->
 [cruzeiro-do-sul-website]: https://www.cruzeirodosul.edu.br/
