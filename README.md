@@ -1,10 +1,14 @@
 <h1 align="center">Hi! I'm @nasccped 👋</h1>
 
 <!-- showing badges -->
+<div align="center">
+
 [![CS Student][cs-student]](#)
 [![Software Dev.][software-dev]](#)
 [![Looking For A Job][looking-for-a-job]](#)
 [![Check Resumes][check-resumes]](https://github.com/nasccped/nasccped/tree/main/resumes)
+
+</div>
 
 Computer Science student at
 [Cruzeiro do Sul <img src="./assets/logo-cruzeiro_do_sul.png"
