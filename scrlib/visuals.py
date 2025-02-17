@@ -22,7 +22,7 @@ def print_menu_options():
 
     for (k, v) in men_opt.items():
         print(
-            "  "
+            "    "
             + "\x1b[1;33m" + k + " "
             + "\x1b[0m"    + v
         )
