@@ -51,8 +51,8 @@ You can send me an [e-mail][send-me-email] or check my resumes by
 clicking on these links ([en-US][resume-en], [pt-BR][resume-pt]),
 by the way...
 
-Configs
--------
+Configs ⚙️
+---------
 
 Are you interested in some of my configs?
 [Click here][configs-branch].
