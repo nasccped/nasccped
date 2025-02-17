@@ -20,6 +20,17 @@ There are two main files:
 
 They both are periodically update. Choose the one you prefer 😊
 
+> [!TIP]
+>
+> You can also check the `all` directory. It contains all my resumes
+> over time ordered from oldest to newest!
+>
+> For example, `20xx-ll-y.pdf` means:
+> - `20xx`: written in the year of 20xx
+> - `ll`: file's language version (_'en'_ means english, _'pt'_ means
+>   portuguese)
+> - `y`: y'nth version of year 20xx
+
 <!-- branch navigation -->
 [my-profile]: https://github.com/nasccped
 [projects-branch]: https://github.com/nasccped/nasccped/tree/projects
