@@ -4,7 +4,7 @@
 
 [**Go back to profile**][my-profile] |
 [**Check configs**][configs-branch] |
-[**Check resumes**][configs-branch]
+[**Check resumes**][resumes-branch]
 
 </div>
 
