@@ -28,9 +28,9 @@ Here are some important links you should consider checking out:
   profile
 
 <!-- badges area -->
-[cs-student]: https://img.shields.io/badge/cs_student-759240?style=for-the-badge
-[software-dev]: https://img.shields.io/badge/software%20dev.-F28A17?style=for-the-badge
-[looking-for-a-job]: https://img.shields.io/badge/looking_for_a_job-C24444?style=for-the-badge
+[cs-student]: https://img.shields.io/badge/cs_student-F28A17?style=for-the-badge
+[software-dev]: https://img.shields.io/badge/software%20dev.-C24444?style=for-the-badge
+[looking-for-a-job]: https://img.shields.io/badge/looking_for_a_job-3E73AF?style=for-the-badge
 
 <!-- resource links -->
 [cruzeiro-do-sul-website]: https://www.cruzeirodosul.edu.br/
