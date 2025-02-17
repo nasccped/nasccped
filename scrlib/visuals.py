@@ -1,4 +1,4 @@
-from .menu_options import MenuOptions
+from .menu_option import MenuOption
 
 def terminal_clear():
     print("\x1b[2J\x1b[H", end="")
@@ -17,7 +17,7 @@ def print_banner():
 def print_menu_options():
     
     men_opt = {
-        str(opt.value[0]) + "." : opt.value[1] for opt in MenuOptions
+        str(opt.value[0]) + "." : opt.value[1] for opt in MenuOption
     }
 
     for (k, v) in men_opt.items():

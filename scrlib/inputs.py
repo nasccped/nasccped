@@ -1,13 +1,13 @@
 from typing import Optional
-from .menu_options import MenuOptions
+from .menu_option import MenuOption
 
-def get_menu_option_by_strkey(key: str) -> Optional[MenuOptions]:
+def get_menu_option_by_strkey(key: str) -> Optional[MenuOption]:
     
     if not key.isnumeric():
         return None
 
     key = int(key)
 
-    for enum in MenuOptions:
+    for enum in MenuOption:
         if key == enum.value[0]:
             return enum
