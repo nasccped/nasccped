@@ -15,8 +15,8 @@ style="height:1rem"
 alt="Cruzeiro do Sul logo">][cruzeiro-do-sul-website] university and
 CLI / Software Dev. admirer ❤️
 
-Important Links
----------------
+Important Links 🔗
+-----------------
 
 Here are some important links you should consider checking out:
 
