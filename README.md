@@ -26,5 +26,5 @@ They both are periodically update. Choose the one you prefer 😊
 [configs-branch]: https://github.com/nasccped/nasccped/tree/configs
 
 <!-- main resumes link -->
-[res-en]: ./resumes/nascc-resume-en.pdf
-[res-pt]: ./resumes/nascc-resume-pt.pdf
+[res-en]: ./latest/nascc-resume-en.pdf
+[res-pt]: ./latest/nascc-resume-pt.pdf
