@@ -3,6 +3,9 @@ from scrlib.visuals import (
     print_banner
 )
 
-if __name__ == "__main__":
+def main():
     terminal_clear()
     print_banner()
+
+if __name__ == "__main__":
+    main()
