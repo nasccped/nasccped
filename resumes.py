@@ -1,3 +1,7 @@
+from typing import Optional
+
+from scrlib.menu_option import MenuOption
+
 from scrlib.visuals import (
     terminal_clear,
     print_banner,
@@ -7,25 +11,30 @@ from scrlib.visuals import (
 from scrlib.inputs import get_menu_option_by_strkey
 
 def main():
+
+    selected_option: Optional[MenuOption] = None
+
+    while True:
+        terminal_clear()
+        print_banner()
+        print(
+            "  \x1b[1;37m" + "Choose an option"
+        )
+        print(
+            "  ----------------"
+            + "\x1b[0m"
+        )
+        print_menu_options()
+        print()
+        target_enum = input("  > ")
+        selected_option = get_menu_option_by_strkey(target_enum)
+
+        match selected_option:
+            case MenuOption.QUIT: break
+
     terminal_clear()
-    print_banner()
-    print(
-        "  \x1b[1;37m" + "Choose an option"
-    )
-    print(
-        "  ----------------"
-        + "\x1b[0m"
-    )
-    print_menu_options()
     print()
-    target_enum = input("  > ")
-    target_enum = get_menu_option_by_strkey(target_enum)
-    print()
-    print(
-        "  You selected "
-        + ("\x1b[1;31mNone" if target_enum is None else ("\x1b[1;34m" + target_enum.name))
-        + "\x1b[0m"
-    )
+    print("  \x1b[1;31mQuitting\x1b[0m...")
     print()
 
 if __name__ == "__main__":
