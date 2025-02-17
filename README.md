@@ -27,9 +27,6 @@ Here, you can check my personal, professional and comercial projects:
 > This means that this repository can have its url changed or even be
 > removed from the server. If there is, send an issue so I can fix
 > it.
->
-> If you're interested in some of my configs, I have a specific
-> folder for it. You can check my by [clicking here][configs-path]!
 
 <details>
   <summary>Projects Table</summary>
@@ -53,6 +50,12 @@ contact me via personal links at my own [profile][my-profile].
 You can send me an [e-mail][send-me-email] or check my resumes by
 clicking on these links ([en-US][resume-en], [pt-BR][resume-pt]),
 by the way...
+
+Configs
+-------
+
+Are you interested in some of my configs?
+[Click here][configs-branch].
 
 <!-- badges area -->
 [cs-student]: https://img.shields.io/badge/cs_student-759240?style=for-the-badge
@@ -82,3 +85,5 @@ by the way...
 [send-me-email]: mailto:pdbt.contact@gmail.com?subject=Put%20the%20Message%20title%20here%20%E2%9C%8D%EF%B8%8F&body=Don't%20forget%20to%20add...%20well...%20the%20message%20%F0%9F%98%85
 [resume-en]: https://github.com/nasccped/nasccped/blob/main/resumes/nascc-resume-en.pdf
 [resume-pt]: https://github.com/nasccped/nasccped/blob/main/resumes/nascc-resume-pt.pdf
+
+[configs-branch]: https://github.com/nasccped/nasccped/tree/configs
