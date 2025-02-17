@@ -1,4 +1,4 @@
-<h1 align="center">nasccped | configs ⚙️</h1>
+<h1 align="center">@nasccpeds configs ⚙️</h1>
 
 <!-- showing badges -->
 <div align="center">
