@@ -65,14 +65,6 @@ Are you interested in some of my configs?
 
 <!-- resource links -->
 [cruzeiro-do-sul-website]: https://www.cruzeirodosul.edu.br/
-[php-link]: https://www.php.net/
-[mysql-link]: https://www.mysql.com/
-[python-link]: https://www.python.org/
-[java-link]: https://www.java.com/en/
-[c-link]: https://www.w3schools.com/c/
-[git-link]: https://git-scm.com/
-[rust-link]: https://www.rust-lang.org/
-[configs-path]: https://github.com/nasccped/nasccped/tree/main/configs/README.md
 
 <!-- project links -->
 [kojamp-man]: https://github.com/nasccped/kojamp-man
