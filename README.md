@@ -16,8 +16,6 @@ style="height:1rem"
 alt="Cruzeiro do Sul logo">][cruzeiro-do-sul-website] university and
 CLI / Software Dev. admirer ❤️
 
-
-
 Projects 💎
 ----------
 
@@ -46,8 +44,6 @@ Here, you can check my personal, professional and comercial projects:
 
 </details>
 
-
-
 Contact 📬
 ---------
 
@@ -57,8 +53,6 @@ contact me via personal links at my own [profile][my-profile].
 You can send me an [e-mail][send-me-email] or check my resumes by
 clicking on these links ([en-US][resume-en], [pt-BR][resume-pt]),
 by the way...
-
-
 
 <!-- badges area -->
 [cs-student]: https://img.shields.io/badge/cs_student-759240?style=for-the-badge
