@@ -1,1 +1,4 @@
-print("You're at * \x1b[32mresumes\x1b[0m branch!")
+from scrlib.cli import hello_from_cli
+
+if __name__ == "__main__":
+    hello_from_cli()
