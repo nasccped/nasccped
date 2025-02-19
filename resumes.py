@@ -23,19 +23,21 @@ def main():
                 break
 
             case MenuOption.CHECK:
+                print("  \x1b[1;32m`all`\x1b[37m dir status")
+                print("  ----------------" + "\x1b[0m")
                 ALL_DIR_STATUS.show_data()
+                print()
+
+                print("  \x1b[1;32m`latest`\x1b[37m dir status")
+                print("  -------------------" + "\x1b[0m")
                 LATEST_DIR_STATUS.show_data()
-                input("")
+                print()
+                input("  > ")
                 selected_option = None
 
             case _:
-                print(
-                    "  \x1b[1;37m" + "Choose an option"
-                )
-                print(
-                    "  ----------------"
-                    + "\x1b[0m"
-                )
+                print("  \x1b[1;37m" + "Choose an option")
+                print("  ----------------" + "\x1b[0m")
                 print_menu_options()
                 print()
                 target_enum = input("  > ").strip()
