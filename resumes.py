@@ -48,9 +48,9 @@ def main():
                 )
 
                 print("  - latest en pdf is updated:", end = " ")
-                print(f"\x1b[1;3{2 if en_upd else 1}m{'Yes' if en_upd else 'No. (May not exists)'}\x1b[0m")
+                print(f"\x1b[1;3{2 if en_upd else 1}m{'Yes' if en_upd else 'No. (May not exists too)'}\x1b[0m")
                 print("  - latest pt pdf is updated:", end = " ")
-                print(f"\x1b[1;3{2 if pt_upd else 1}m{'Yes' if pt_upd else 'No. (May not exists)'}\x1b[0m")
+                print(f"\x1b[1;3{2 if pt_upd else 1}m{'Yes' if pt_upd else 'No. (May not exists too)'}\x1b[0m")
                 print()
 
                 input("  Press Enter ")
