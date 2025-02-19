@@ -12,5 +12,5 @@
 Welcome to my configurations branch!
 
 [my-profile]: https://github.com/nasccped
-[projects-branch]: https://github.com/nasccped/nasccped/tree/projects
-[resumes-branch]: https://github.com/nasccped/nasccped/tree/resumes
+[projects-branch]: https://github.com/nasccped/nasccped/tree/projects/README.md
+[resumes-branch]: https://github.com/nasccped/nasccped/tree/resumes/README.md
