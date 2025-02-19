@@ -11,13 +11,20 @@ class ParentDirStatus:
         all_content = os.listdir(dir_path)
 
         self.invalid_content = [
-            ctt for ctt in all_content if not re.match(regex_filter)
+            ctt for ctt in all_content if not re.match(regex_filter, ctt)
         ]
 
         self.valid_pdfs = [
             ctt for ctt in all_content
             if ctt not in self.invalid_content
         ]
+
+
+class AllDirStatus(ParentDirStatus):
+
+    def __init__(self, dir_path: str):
+
+        super().__init__(dir_path, r"^\d{4}-(en|pt)-\d{2}\.pdf$")
 
         self.eng_pdfs = [
             ctt for ctt in self.valid_pdfs
@@ -29,42 +36,12 @@ class ParentDirStatus:
             if ctt not in self.eng_pdfs
         ]
 
-class AllDirStatus:
-
-    def __init__(self, pdfs_dir_path: str):
-
-        all_f = os.listdir(pdfs_dir_path)
-        regex_filter = r"^\d{4}-(en|pt)-\d{2}\.pdf$"
-
-        self.root_path = pdfs_dir_path
-
-        self.invalid_files_list = [
-            f for f in all_f if not re.match(regex_filter, f)
-        ]
-
-        self.pdf_list = [
-            f for f in all_f if f not in self.invalid_files_list
-        ]
-
-        self.eng_pdf_list = [
-            f for f in self.pdf_list if f.split("-")[1] == "en"
-        ]
-
-        self.prt_pdf_list = [
-            f for f in self.pdf_list if f.split("-")[1] == "pt"
-        ]
-
-        self.invalid_files_count = len(self.invalid_files_list)
-        self.pdf_count           = len(self.pdf_list          )
-        self.eng_pdf_count       = len(self.eng_pdf_list      )
-        self.prt_pdf_count       = len(self.prt_pdf_list      )
-
     def show_data(self):
 
-        i_count = self.invalid_files_count
-        f_count = i_count + self.pdf_count
-        e_count = self.eng_pdf_count
-        p_count = self.prt_pdf_count
+        i_count = len(self.invalid_content)
+        f_count = i_count + len(self.valid_pdfs)
+        e_count = len(self.eng_pdfs)
+        p_count = len(self.prt_pdfs)
 
         print(f"  \x1b[1;32m{f_count}\x1b[0m files(s)")
 
@@ -74,41 +51,28 @@ class AllDirStatus:
         print(f"  | \x1b[1;33m{e_count}\x1b[0m en pdf(s)")
         print(f"  | \x1b[1;33m{p_count}\x1b[0m pt pdf(s)")
 
-class LatestDirStats:
+class LatestDirStats(ParentDirStatus):
 
-    def __init__(self, pdfs_dir_path: str):
+    def __init__(self, dir_path: str):
 
-        all_f = os.listdir(pdfs_dir_path)
-        regex_filter = r"^nascc-resume-(en|pt)\.pdf$"
+        super().__init__(dir_path, r"^nascc-resume-(en|pt)\.pdf$")
 
-        self.invalid_files_list = [
-            f for f in all_f if not re.match(regex_filter, f)
+        self.eng_pdfs = [
+            ctt for ctt in self.valid_pdfs
+            if ctt.split("-")[-1].startswith("en")
         ]
 
-        self.pdf_list = [
-            f for f in all_f if f not in self.invalid_files_list
+        self.prt_pdfs = [
+            ctt for ctt in self.valid_pdfs
+            if ctt not in self.eng_pdfs
         ]
-
-        self.eng_pdf_list = [
-            f for f in self.pdf_list
-            if f.split("-")[-1].startswith("en")
-        ]
-
-        self.prt_pdf_list = [
-            f for f in self.pdf_list if f not in self.eng_pdf_list
-        ]
-
-        self.invalid_files_count = len(self.invalid_files_list)
-        self.pdf_count           = len(self.pdf_list          )
-        self.eng_pdf_count       = len(self.eng_pdf_list      )
-        self.prt_pdf_count       = len(self.prt_pdf_list      )
 
     def show_data(self):
 
-        i_count = self.invalid_files_count
-        f_count = i_count + self.pdf_count
-        e_count = self.eng_pdf_count
-        p_count = self.prt_pdf_count
+        i_count = len(self.invalid_content)
+        f_count = i_count + len(self.valid_pdfs)
+        e_count = len(self.eng_pdfs)
+        p_count = len(self.prt_pdfs)
 
         print(f"  \x1b[1;3{1 if f_count != 2 else 2}m{f_count}\x1b[0m file(s)")
 
