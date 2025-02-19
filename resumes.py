@@ -1,14 +1,14 @@
 from typing import Optional
 
-from scrlib.menu_option import MenuOption
+from mods.menu_option import MenuOption
 
-from scrlib.visuals import (
+from mods.visuals import (
     terminal_clear,
     print_banner,
     print_menu_options
 )
 
-from scrlib.inputs import get_menu_option_by_strkey
+from mods.inputs import get_menu_option_by_strkey
 
 def main():
 
