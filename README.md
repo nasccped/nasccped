@@ -35,8 +35,8 @@ Here are some important links you should consider checking out:
 <!-- resource links -->
 [cruzeiro-do-sul-website]: https://www.cruzeirodosul.edu.br/
 
-[projects-branch]: https://github.com/nasccped/nasccped/tree/projects
-[configs-branch]: https://github.com/nasccped/nasccped/tree/configs
-[resumes-branch]: https://github.com/nasccped/nasccped/tree/resumes
+[projects-branch]: https://github.com/nasccped/nasccped/tree/projects/README.md
+[configs-branch]: https://github.com/nasccped/nasccped/tree/configs/README.md
+[resumes-branch]: https://github.com/nasccped/nasccped/tree/resumes/README.md
 [send-me-email]: mailto:pdbt.contact@gmail.com?subject=Put%20the%20Message%20title%20here%20%E2%9C%8D%EF%B8%8F&body=Don't%20forget%20to%20add...%20well...%20the%20message%20%F0%9F%98%85
 [my-profile]: https://github.com/nasccped
