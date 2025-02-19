@@ -43,13 +43,13 @@ class AllDirStatus(ParentDirStatus):
         e_count = len(self.eng_pdfs)
         p_count = len(self.prt_pdfs)
 
-        print(f"  \x1b[1;32m{f_count}\x1b[0m files(s)")
+        print(f"    \x1b[1;32m{f_count}\x1b[0m item(s)")
 
         if i_count > 0:
-            print(f"  | \x1b[1;31m{i_count}\x1b[0m invalid file(s)")
+            print(f"    | \x1b[1;31m{i_count}\x1b[0m invalid item(s)")
 
-        print(f"  | \x1b[1;33m{e_count}\x1b[0m en pdf(s)")
-        print(f"  | \x1b[1;33m{p_count}\x1b[0m pt pdf(s)")
+        print(f"    | \x1b[1;33m{e_count}\x1b[0m en pdf(s)")
+        print(f"    | \x1b[1;33m{p_count}\x1b[0m pt pdf(s)")
 
 class LatestDirStats(ParentDirStatus):
 
@@ -74,13 +74,13 @@ class LatestDirStats(ParentDirStatus):
         e_count = len(self.eng_pdfs)
         p_count = len(self.prt_pdfs)
 
-        print(f"  \x1b[1;3{1 if f_count != 2 else 2}m{f_count}\x1b[0m file(s)")
+        print(f"    \x1b[1;3{1 if f_count != 2 else 2}m{f_count}\x1b[0m item(s)")
 
         if i_count > 0:
-            print(f"  | \x1b[1;31m{i_count}\x1b[0m invalid file(s)")
+            print(f"    | \x1b[1;31m{i_count}\x1b[0m invalid item(s)")
 
-        print(f"  | \x1b[1;3{1 if e_count != 1 else 3}m{e_count}\x1b[0m en pdf(s)")
-        print(f"  | \x1b[1;3{1 if p_count != 1 else 3}m{p_count}\x1b[0m pt pdf(s)")
+        print(f"    | \x1b[1;3{1 if e_count != 1 else 3}m{e_count}\x1b[0m en pdf(s)")
+        print(f"    | \x1b[1;3{1 if p_count != 1 else 3}m{p_count}\x1b[0m pt pdf(s)")
 
 ALL_DIR_STATUS = AllDirStatus(ALL_DIR)
 LATEST_DIR_STATUS = LatestDirStats(LATEST_DIR)
