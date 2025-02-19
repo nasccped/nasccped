@@ -1,5 +1,6 @@
 import re
 import os
+import shutil
 
 ALL_DIR    = "all"
 LATEST_DIR = "latest"
@@ -137,6 +138,9 @@ def compare_files_by_path(fpath1: str, fpath2: str) -> bool:
         return False
 
     return res
+
+def replace_pdfs(replace_this: str, by_this: str):
+    shutil.copy(by_this, replace_this)
 
 ALL_DIR_STATUS = AllDirStatus(ALL_DIR)
 LATEST_DIR_STATUS = LatestDirStats(LATEST_DIR)
