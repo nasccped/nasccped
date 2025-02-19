@@ -95,18 +95,18 @@ def main():
                         last_pt = LATEST_DIR_STATUS.get_pt_path()
                         all_pt = ALL_DIR_STATUS.get_last_pt_path()
 
-                        print(f"  `{last_en}` will be replaced by `{all_en}`.", end = " ")
+                        print(f"  \x1b[1;32m`{last_en}`\x1b[0m will be replaced by \x1b[1;32m`{all_en}`\x1b[0m.")
 
-                        if input("\x1b[1;33mAre you sure?\x1b[0m [y/n] ") == "y":
+                        if input("    Are you sure? \x1b[3m[y/n]\x1b[0m ") == "y":
                             replace_pdfs(last_en, all_en)
                             print("    \xb1[1;32m> Replaced\x1b[0m")
                         else:
                             print("    \x1b[1;31m> Aborted\x1b[0m")
 
-                        print(f"  `{last_en}` will be replaced by `{all_en}`.", end = " ")
+                        print(f"  \x1b[1;32m`{last_pt}`\x1b[0m will be replaced by \x1b[1;32m`{all_pt}`\x1b[0m.")
 
-                        if input("\x1b[1;33mAre you sure?\x1b[0m [y/n] ") == "y":
-                            replace_pdfs(last_en, all_en)
+                        if input("    Are you sure? \x1b[3m[y/n]\x1b[0m ") == "y":
+                            replace_pdfs(last_pt, all_pt)
                             print("    \xb1[1;32m> Replaced\x1b[0m")
                         else:
                             print("    \x1b[1;31m> Aborted\x1b[0m")
