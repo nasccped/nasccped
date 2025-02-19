@@ -1,36 +1,45 @@
 from typing import Optional
-
 from mods.menu_option import MenuOption
-
 from mods.visuals import (
     terminal_clear,
     print_banner,
     print_menu_options
 )
-
 from mods.inputs import get_menu_option_by_strkey
+from mods.tasks import ALL_DIR_STATUS, LATEST_DIR_STATUS
 
 def main():
 
     selected_option: Optional[MenuOption] = None
 
     while True:
+
         terminal_clear()
         print_banner()
-        print(
-            "  \x1b[1;37m" + "Choose an option"
-        )
-        print(
-            "  ----------------"
-            + "\x1b[0m"
-        )
-        print_menu_options()
-        print()
-        target_enum = input("  > ")
-        selected_option = get_menu_option_by_strkey(target_enum)
 
         match selected_option:
-            case MenuOption.QUIT: break
+
+            case MenuOption.QUIT:
+                break
+
+            case MenuOption.CHECK:
+                ALL_DIR_STATUS.show_data()
+                LATEST_DIR_STATUS.show_data()
+                input("")
+                selected_option = None
+
+            case _:
+                print(
+                    "  \x1b[1;37m" + "Choose an option"
+                )
+                print(
+                    "  ----------------"
+                    + "\x1b[0m"
+                )
+                print_menu_options()
+                print()
+                target_enum = input("  > ").strip()
+                selected_option = get_menu_option_by_strkey(target_enum)
 
     terminal_clear()
     print()
