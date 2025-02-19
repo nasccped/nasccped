@@ -99,7 +99,7 @@ def main():
 
                         if input("    Are you sure? \x1b[3m[y/n]\x1b[0m ") == "y":
                             replace_pdfs(last_en, all_en)
-                            print("    \xb1[1;32m> Replaced\x1b[0m")
+                            print("    \x1b[1;32m> Replaced\x1b[0m")
                         else:
                             print("    \x1b[1;31m> Aborted\x1b[0m")
 
@@ -107,7 +107,7 @@ def main():
 
                         if input("    Are you sure? \x1b[3m[y/n]\x1b[0m ") == "y":
                             replace_pdfs(last_pt, all_pt)
-                            print("    \xb1[1;32m> Replaced\x1b[0m")
+                            print("    \x1b[1;32m> Replaced\x1b[0m")
                         else:
                             print("    \x1b[1;31m> Aborted\x1b[0m")
 
