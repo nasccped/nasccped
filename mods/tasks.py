@@ -1,15 +1,15 @@
 import re
 import os
 
-ALL_DIR    = "./all"
-LATEST_DIR = "./latest"
+ALL_DIR    = "all"
+LATEST_DIR = "latest"
 
 class ParentDirStatus:
 
     def __init__(self, dir_path: str, regex_filter: str):
 
         all_content = os.listdir(dir_path)
-
+        self.root = os.path.join(".", dir_path)
         self.invalid_content = [
             ctt for ctt in all_content if not re.match(regex_filter, ctt)
         ]
@@ -56,6 +56,12 @@ class AllDirStatus(ParentDirStatus):
         print(f"    | \x1b[1;33m{e_count}\x1b[0m en pdf(s)")
         print(f"    | \x1b[1;33m{p_count}\x1b[0m pt pdf(s)")
 
+    def get_last_en_path(self) -> str:
+        return os.path.join(self.root, self.eng_pdfs[-1])
+
+    def get_last_pt_path(self) -> str:
+        return os.path.join(self.root, self.prt_pdfs[-1])
+
 class LatestDirStats(ParentDirStatus):
 
     def __init__(self, dir_path: str):
@@ -91,6 +97,21 @@ class LatestDirStats(ParentDirStatus):
 
         print(f"    | \x1b[1;3{1 if e_count != 1 else 3}m{e_count}\x1b[0m en pdf(s)")
         print(f"    | \x1b[1;3{1 if p_count != 1 else 3}m{p_count}\x1b[0m pt pdf(s)")
+
+    def get_en_path(self) -> str:
+        return os.path.join(self.root, self.eng_pdfs[0])
+
+    def get_pt_path(self) -> str:
+        return os.path.join(self.root, self.prt_pdfs[0])
+
+def compare_files_by_path(fpath1: str, fpath2: str) -> bool:
+
+    res = False
+
+    with open(fpath1, "rb") as f1, open(fpath2, "rb") as f2:
+        res = f1.read() == f2.read()
+
+    return res
 
 ALL_DIR_STATUS = AllDirStatus(ALL_DIR)
 LATEST_DIR_STATUS = LatestDirStats(LATEST_DIR)
