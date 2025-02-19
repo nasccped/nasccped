@@ -6,7 +6,9 @@ from mods.visuals import (
     print_menu_options
 )
 from mods.inputs import get_menu_option_by_strkey
-from mods.tasks import ALL_DIR_STATUS, LATEST_DIR_STATUS
+from mods.tasks import (
+    ALL_DIR_STATUS, LATEST_DIR_STATUS, compare_files_by_path
+)
 
 def main():
 
@@ -32,7 +34,23 @@ def main():
                 print("  -------------------" + "\x1b[0m")
                 LATEST_DIR_STATUS.show_data()
                 print()
-                input("  Press Enter > ")
+
+                en_upd = compare_files_by_path(
+                    ALL_DIR_STATUS.get_last_en_path(),
+                    LATEST_DIR_STATUS.get_en_path()
+                )
+                pt_upd = compare_files_by_path(
+                    ALL_DIR_STATUS.get_last_pt_path(),
+                    LATEST_DIR_STATUS.get_pt_path()
+                )
+
+                print("  - latest en pdf is updated:", end = " ")
+                print(f"\x1b[1;3{2 if en_upd else 1}m{en_upd}\x1b[0m")
+                print("  - latest pt pdf is updated:", end = " ")
+                print(f"\x1b[1;3{2 if pt_upd else 1}m{pt_upd}\x1b[0m")
+                print()
+
+                input("  Press Enter ")
                 selected_option = None
 
             case _:
