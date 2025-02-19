@@ -1,3 +1,6 @@
+# this code (mods/*.py also) is for personal use, so it isn't
+# intended to be documented :P
+
 from typing import Optional
 from mods.menu_option import MenuOption
 from mods.visuals import (
