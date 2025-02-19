@@ -32,8 +32,8 @@ Here, you can check my personal, professional and comercial projects:
 
 <!-- branch navigation links -->
 [my-profile]: https://github.com/nasccped
-[configs-branch]: https://github.com/nasccped/nasccped/tree/configs
-[resumes-branch]: https://github.com/nasccped/nasccped/tree/resumes
+[configs-branch]: https://github.com/nasccped/nasccped/tree/configs/README.md
+[resumes-branch]: https://github.com/nasccped/nasccped/tree/resumes/README.md
 
 <!-- project links -->
 [kojamp-man]: https://github.com/nasccped/kojamp-man
