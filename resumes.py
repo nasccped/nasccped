@@ -111,6 +111,9 @@ def main():
                         else:
                             print("    \x1b[1;31m> Aborted\x1b[0m")
 
+                        print("  Resumes updating finalized!")
+                        print()
+
                 input("  Press Enter ")
                 selected_option = None
 
