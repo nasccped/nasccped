@@ -32,7 +32,7 @@ def main():
                 print("  -------------------" + "\x1b[0m")
                 LATEST_DIR_STATUS.show_data()
                 print()
-                input("  > ")
+                input("  Press Enter > ")
                 selected_option = None
 
             case _:
