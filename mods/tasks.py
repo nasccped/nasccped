@@ -62,6 +62,13 @@ class AllDirStatus(ParentDirStatus):
     def get_last_pt_path(self) -> str:
         return os.path.join(self.root, self.prt_pdfs[-1])
 
+    def is_safe_update(self) -> bool:
+        return all([
+            not self.invalid_content,
+            self.get_last_en_path(),
+            self.get_last_pt_path()
+        ])
+
 class LatestDirStats(ParentDirStatus):
 
     def __init__(self, dir_path: str):
@@ -111,6 +118,13 @@ class LatestDirStats(ParentDirStatus):
             return ""
 
         return os.path.join(self.root, self.prt_pdfs[0])
+
+    def is_safe_update(self) -> bool:
+        return all([
+            not self.invalid_content,
+            self.get_en_path,
+            self.get_pt_path,
+        ])
 
 def compare_files_by_path(fpath1: str, fpath2: str) -> bool:
 
