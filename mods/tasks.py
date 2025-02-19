@@ -99,17 +99,28 @@ class LatestDirStats(ParentDirStatus):
         print(f"    | \x1b[1;3{1 if p_count != 1 else 3}m{p_count}\x1b[0m pt pdf(s)")
 
     def get_en_path(self) -> str:
+
+        if len(self.eng_pdfs) != 1:
+            return ""
+
         return os.path.join(self.root, self.eng_pdfs[0])
 
     def get_pt_path(self) -> str:
+
+        if len(self.prt_pdfs) != 1:
+            return ""
+
         return os.path.join(self.root, self.prt_pdfs[0])
 
 def compare_files_by_path(fpath1: str, fpath2: str) -> bool:
 
     res = False
 
-    with open(fpath1, "rb") as f1, open(fpath2, "rb") as f2:
-        res = f1.read() == f2.read()
+    try:
+        with open(fpath1, "rb") as f1, open(fpath2, "rb") as f2:
+            res = f1.read() == f2.read()
+    except:
+        return False
 
     return res
 
