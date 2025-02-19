@@ -46,7 +46,12 @@ class AllDirStatus(ParentDirStatus):
         print(f"    \x1b[1;32m{f_count}\x1b[0m item(s)")
 
         if i_count > 0:
-            print(f"    | \x1b[1;31m{i_count}\x1b[0m invalid item(s)")
+            print(f"    | \x1b[1;31m{i_count}\x1b[0m invalid item(s):", end = " ")
+            invalids = [item for item in self.invalid_content]
+            if i_count > 4:
+                invalids = invalids[ : 4] + [f"<+{i_count - 4} items>"]
+            inv_text = ", ".join([("\x1b[1;31m" + it + "\x1b[0m") for it in invalids])
+            print(inv_text)
 
         print(f"    | \x1b[1;33m{e_count}\x1b[0m en pdf(s)")
         print(f"    | \x1b[1;33m{p_count}\x1b[0m pt pdf(s)")
@@ -77,7 +82,12 @@ class LatestDirStats(ParentDirStatus):
         print(f"    \x1b[1;3{1 if f_count != 2 else 2}m{f_count}\x1b[0m item(s)")
 
         if i_count > 0:
-            print(f"    | \x1b[1;31m{i_count}\x1b[0m invalid item(s)")
+            print(f"    | \x1b[1;31m{i_count}\x1b[0m invalid item(s):", end = " ")
+            invalids = [item for item in self.invalid_content]
+            if i_count > 4:
+                invalids = invalids[ : 4] + [f"<+{i_count - 4} items>"]
+            inv_text = ", ".join([("\x1b[1;31m" + it + "\x1b[0m") for it in invalids])
+            print(inv_text)
 
         print(f"    | \x1b[1;3{1 if e_count != 1 else 3}m{e_count}\x1b[0m en pdf(s)")
         print(f"    | \x1b[1;3{1 if p_count != 1 else 3}m{p_count}\x1b[0m pt pdf(s)")
