@@ -4,6 +4,31 @@ import os
 ALL_DIR    = "./all"
 LATEST_DIR = "./latest"
 
+class ParentDirStatus:
+
+    def __init__(self, dir_path: str, regex_filter: str):
+
+        all_content = os.listdir(dir_path)
+
+        self.invalid_content = [
+            ctt for ctt in all_content if not re.match(regex_filter)
+        ]
+
+        self.valid_pdfs = [
+            ctt for ctt in all_content
+            if ctt not in self.invalid_content
+        ]
+
+        self.eng_pdfs = [
+            ctt for ctt in self.valid_pdfs
+            if ctt.split("-")[1] == "en"
+        ]
+
+        self.prt_pdfs = [
+            ctt for ctt in self.valid_pdfs
+            if ctt not in self.eng_pdfs
+        ]
+
 class AllDirStatus:
 
     def __init__(self, pdfs_dir_path: str):
