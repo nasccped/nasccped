@@ -11,14 +11,15 @@
 
 Welcome to my resumes branch.
 
-There are two main files:
+- There are two main files:
+  - [nascc-resume-en.pdf][res-en], an english (USA)
+    version of my personal resume;
+  - [nascc-resume-pt.pdf][res-pt], a portuguese (BR)
+    version of my personal resume.
+- And an extra dir:
+  - [cert][cert], for my profissional/academic certificates.
 
-1. [nascc-resume-en.pdf][res-en], an english (USA)
-   version of my personal resume;
-2. [nascc-resume-pt.pdf][res-pt], a portuguese (BR)
-   version of my personal resume.
-
-They both are periodically update. Choose the one you prefer 😊
+All dir/files are periodically updated! Have fun 😊
 
 > [!TIP]
 >
@@ -39,3 +40,4 @@ They both are periodically update. Choose the one you prefer 😊
 <!-- main resumes link -->
 [res-en]: ./latest/nascc-resume-en.pdf
 [res-pt]: ./latest/nascc-resume-pt.pdf
+[cert]: ./cert/README.md
