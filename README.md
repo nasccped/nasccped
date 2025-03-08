@@ -22,7 +22,7 @@ Here are some important links you should consider checking out:
 
 - 💎 **[projects][projects-branch]:** go to my projects branch
 - ⚙️ **[configs][configs-branch]:** check out my personal configs
-- 📄 **[resumes][resumes-branch]:** check out / download my resume(s)
+- 📄 **[docs][docs-branch]:** check out / download my resume(s) and certificates
 - 📭 **[email][send-me-email]:** send me an email
 - 🌎 **[others][my-profile]:** get other links by accessing my github
   profile
@@ -37,6 +37,6 @@ Here are some important links you should consider checking out:
 
 [projects-branch]: https://github.com/nasccped/nasccped/tree/projects/README.md
 [configs-branch]: https://github.com/nasccped/nasccped/tree/configs/README.md
-[resumes-branch]: https://github.com/nasccped/nasccped/tree/resumes/README.md
+[docs-branch]: https://github.com/nasccped/nasccped/tree/docs/README.md
 [send-me-email]: mailto:pdbt.contact@gmail.com?subject=Put%20the%20Message%20title%20here%20%E2%9C%8D%EF%B8%8F&body=Don't%20forget%20to%20add...%20well...%20the%20message%20%F0%9F%98%85
 [my-profile]: https://github.com/nasccped
