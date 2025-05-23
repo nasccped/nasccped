@@ -1,13 +1,12 @@
-<h1 align="center">Hi! I'm @nasccped 👋</h1>
-
-<!-- showing badges -->
 <div align="center">
 
+# Hi! I'm @nasccped 👋
+
+<!-- showing badges -->
 [![CS Student](https://img.shields.io/badge/cs_student-F28A17?style=for-the-badge)](#)
 [![Software Dev.](https://img.shields.io/badge/software%20dev.-C24444?style=for-the-badge)](#)
 [![Looking For A Job](https://img.shields.io/badge/looking_for_a_job-3E73AF?style=for-the-badge)](#)
 
-</div>
 
 Computer Science student at
 [Cruzeiro do Sul <img src="./assets/logo-cruzeiro_do_sul.png"
@@ -16,8 +15,6 @@ alt="Cruzeiro do Sul logo">](https://www.cruzeirodosul.edu.br/)
 university and CLI / Software Dev. admirer ❤️
 
 <br>
-
-<div align="center">
 
 Here are some important links you should consider checking out:
 
