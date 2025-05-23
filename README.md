@@ -15,12 +15,11 @@ style="height:1rem"
 alt="Cruzeiro do Sul logo">](https://www.cruzeirodosul.edu.br/)
 university and CLI / Software Dev. admirer ❤️
 
-Important Links 🔗
------------------
-
-Here are some important links you should consider checking out:
+<br>
 
 <div align="center">
+
+Here are some important links you should consider checking out:
 
 **[projects](https://github.com/nasccped/nascc.projects) |
 [configs](https://github.com/nasccped/nasccped/tree/configs/README.md) |
