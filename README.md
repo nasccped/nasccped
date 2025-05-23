@@ -20,12 +20,11 @@ Important Links 🔗
 
 Here are some important links you should consider checking out:
 
-- 💎 **[projects][projects-branch]:** go to my projects branch
-- ⚙️ **[configs][configs-branch]:** check out my personal configs
-- 📄 **[docs][docs-branch]:** check out / download my resume(s) and certificates
-- 📭 **[email][send-me-email]:** send me an email
-- 🌎 **[others][my-profile]:** get other links by accessing my github
-  profile
+- 💎 **[projects][projects-branch]
+- ⚙️ **[configs][configs-branch]
+- 📄 **[docs][docs-branch]
+- 📭 **[email][send-me-email]
+- 🌎 **[others][my-profile]
 
 <!-- badges area -->
 [cs-student]: https://img.shields.io/badge/cs_student-F28A17?style=for-the-badge
