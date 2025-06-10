@@ -19,7 +19,7 @@ university and CLI / Software Dev. admirer ❤️
 Here are some important links you should consider checking out:
 
 **[projects](https://github.com/nasccped/nascc.projects) |
-[configs](https://github.com/nasccped/nasccped/tree/configs/README.md) |
+[configs](https://github.com/nasccped/nascc.configs) |
 [docs](https://github.com/nasccped/nasccped/tree/docs/README.md) |
 [email](mailto:pdbt.contact@gmail.com?subject=Put%20the%20Message%20title%20here%20%E2%9C%8D%EF%B8%8F&body=Don't%20forget%20to%20add...%20well...%20the%20message%20%F0%9F%98%85) |
 [others](https://github.com/nasccped)**
