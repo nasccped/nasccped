@@ -17,9 +17,11 @@ university and CLI / Software Dev. admirer ❤️
 
 My most important repositories:
 
-- [projects]
-- [configs]
-- [docs]
+- 📐 [projects], a list of cool things that I've built (personal,
+  commercial and academic)
+- 🔧 [configs], a list of all my config setup for the most diverse kinds
+  of tech tools
+- 📂 [docs], all my important documents (resumes, certificates, more...)
 
 [projects]: https://github.com/nasccped/nascc.projects
 [configs]: https://github.com/nasccped/nascc.configs
