@@ -17,6 +17,9 @@
 
 </div>
 
+**Other idioms:**
+- [portuguese (Brazil)](./README.pt.md)
+
 Computer Science student at
 [Cruzeiro do Sul <img src="./assets/logo-cruzeiro_do_sul.png"
 style="height:1rem"
