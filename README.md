@@ -21,7 +21,10 @@ Computer Science student at
 [Cruzeiro do Sul <img src="./assets/logo-cruzeiro_do_sul.png"
 style="height:1rem"
 alt="Cruzeiro do Sul logo">](https://www.cruzeirodosul.edu.br/)
-university and CLI / Software Dev. admirer ❤️
+university, responsible for projects like
+[`pdmers`](https://github.com/nasccped/pdmers),
+[`jsmoke`](https://github.com/nasccped/jsmoke) and a contributor to
+open-source community ❤️
 
 My most important repositories:
 
