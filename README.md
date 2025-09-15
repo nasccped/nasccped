@@ -3,9 +3,17 @@
 # Hi! I'm @nasccped 👋
 
 <!-- showing badges -->
-[![CS Student](https://img.shields.io/badge/cs_student-F28A17?style=for-the-badge)](#)
-[![Software Dev.](https://img.shields.io/badge/software%20dev.-C24444?style=for-the-badge)](#)
-[![Looking For A Job](https://img.shields.io/badge/looking_for_a_job-3E73AF?style=for-the-badge)](#)
+[![computer science: student](https://img.shields.io/badge/computer_science-student-F28A17)](#)
+[![currently looking for a job: yes](https://img.shields.io/badge/currently_looking_for_a_job-yes-3E73AF)](#)
+
+[![Java](https://img.shields.io/badge/Java-CD8F39)](#)
+[![C](https://img.shields.io/badge/C-4B91E7)](#)
+[![Python](https://img.shields.io/badge/Python-1F5493)](#)
+[![Rust](https://img.shields.io/badge/Rust-FF8000)](#)
+[![SQL](https://img.shields.io/badge/SQL-2B2B3F)](#)
+[![Linux](https://img.shields.io/badge/Linux-8E875C)](#)
+[![Dsa](https://img.shields.io/badge/DSA-FF4048)](#)
+[![Web](https://img.shields.io/badge/Web-66895E)](#)
 
 </div>
 
