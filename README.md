@@ -17,11 +17,12 @@ university and CLI / Software Dev. admirer ❤️
 
 My most important repositories:
 
-- 📐 [projects], a list of cool things that I've built (personal,
+- 📐 [projects], a list of cool things I've built (personal,
   commercial and academic)
-- 🔧 [configs], a list of all my config setup for the most diverse kinds
-  of tech tools
-- 📂 [docs], all my important documents (resumes, certificates, more...)
+- 🔧 [configs], a list of all my config setup for the most diverse
+  kind of tech tools
+- 📂 [docs], all my important documents (resumes, certificates,
+  more...)
 
 [projects]: https://github.com/nasccped/nascc.projects
 [configs]: https://github.com/nasccped/nascc.configs
@@ -29,6 +30,6 @@ My most important repositories:
 
 > [!TIP]
 >
-> You can alse send me an email by [clicking here]!
+> You can also send me an email by [clicking here]!
 
 [clicking here]: mailto:pdbt.contact@gmail.com?subject=Put%20the%20Message%20title%20here%20%E2%9C%8D%EF%B8%8F&body=Don't%20forget%20to%20add...%20well...%20the%20message%20%F0%9F%98%85
