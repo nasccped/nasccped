@@ -5,15 +5,7 @@
 <!-- showing badges -->
 [![ciência da computação: estudante](https://img.shields.io/badge/ciência_da_computação-estudante-F28A17)](#)
 [![buscando oportunidades: sim](https://img.shields.io/badge/buscando_oportunidades-sim-3E73AF)](#)
-
-[![Java](https://img.shields.io/badge/Java-CD8F39)](#)
-[![C](https://img.shields.io/badge/C-4B91E7)](#)
-[![Python](https://img.shields.io/badge/Python-1F5493)](#)
-[![Rust](https://img.shields.io/badge/Rust-FF8000)](#)
-[![SQL](https://img.shields.io/badge/SQL-2B2B3F)](#)
-[![Linux](https://img.shields.io/badge/Linux-8E875C)](#)
-[![EDA](https://img.shields.io/badge/EDA-FF4048)](#)
-[![Web](https://img.shields.io/badge/Web-66895E)](#)
+[![conhecimentos: Java | C | Python | Rust | SQL | Linux | EDA | Web | Docker](https://img.shields.io/badge/conhecimentos-Java_|_C_|_Python_|_Rust_|_SQL_|_Linux_|_EDA_|_Web_|_Docker-F25C54)](#)
 
 </div>
 
