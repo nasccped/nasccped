@@ -36,6 +36,4 @@ Meus repositórios mais importantes:
 
 > [!TIP]
 >
-> Caso queira, pode me mandar um e-mail [clickando aqui]!
-
-[clickando aqui]: mailto:pdbt.contact@gmail.com?subject=título%20aqui&body=corpo%20da%20mensagem
+> Email para contato: [pdbt.contact@gmail.com](pdbt.contact@gmail.com)

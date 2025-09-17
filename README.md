@@ -36,6 +36,4 @@ My most important repositories:
 
 > [!TIP]
 >
-> You can also send me an email by [clicking here]!
-
-[clicking here]: mailto:pdbt.contact@gmail.com?subject=Put%20the%20Message%20title%20here%20%E2%9C%8D%EF%B8%8F&body=Don't%20forget%20to%20add...%20well...%20the%20message%20%F0%9F%98%85
+> Get in touch with my email: [pdbt.contact@gmail.com](pdbt.contact@gmail.com)
