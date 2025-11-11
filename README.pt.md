@@ -1,3 +1,10 @@
+<h4 align="right">
+
+[English (USA)](./README.md)
+| **Português (Brasil)**
+
+</h4>
+
 <div align="center">
 
 # Olá! sou @nasccped 👋
@@ -8,9 +15,6 @@
 [![conhecimentos: Java | C | Python | Rust | SQL | Linux | EDA | Web | Docker](https://img.shields.io/badge/conhecimentos-Java_|_C_|_Python_|_Rust_|_SQL_|_Linux_|_EDA_|_Web_|_Docker-F25C54)](#)
 
 </div>
-
-**Outros idiomas:**
-- [inglês (EUA)](./README.md)
 
 Estudante de Ciência da Computação pela universidade
 [Cruzeiro do Sul <img src="./assets/logo-cruzeiro_do_sul.png"

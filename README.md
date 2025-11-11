@@ -1,3 +1,10 @@
+<h4 align="right">
+
+**English (USA)**
+| [Português (Brasil)](./README.pt.md)
+
+</h4>
+
 <div align="center">
 
 # Hi! I'm @nasccped 👋
@@ -8,9 +15,6 @@
 [![knowledges: Java | C | Python | Rust | SQL | Linux | DSA | Web | Docker](https://img.shields.io/badge/knowledges-Java_|_C_|_Python_|_Rust_|_SQL_|_Linux_|_DSA_|_Web_|_Docker-F25C54)](#)
 
 </div>
-
-**Other idioms:**
-- [portuguese (Brazil)](./README.pt.md)
 
 Computer Science student at
 [Cruzeiro do Sul <img src="./assets/logo-cruzeiro_do_sul.png"
