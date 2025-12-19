@@ -7,37 +7,75 @@
 
 <div align="center">
 
-# Olá! sou @nasccped 👋
-
-<!-- showing badges -->
-[![ciência da computação: estudante](https://img.shields.io/badge/ciência_da_computação-estudante-F28A17)](#)
-[![buscando oportunidades: sim](https://img.shields.io/badge/buscando_oportunidades-sim-3E73AF)](#)
-[![conhecimentos: Java | C | Python | Rust | SQL | Linux | EDA | Web | Docker](https://img.shields.io/badge/conhecimentos-Java_|_C_|_Python_|_Rust_|_SQL_|_Linux_|_EDA_|_Web_|_Docker-F25C54)](#)
+# @nasccped aqui 👋
 
 </div>
 
-Estudante de Ciência da Computação pela universidade
+Graduando em Ciência da computação pela universidade
 [Cruzeiro do Sul <img src="./assets/logo-cruzeiro_do_sul.png"
 style="height:1rem"
-alt="logo Cruzeiro do Sul">](https://www.cruzeirodosul.edu.br/),
-responsável por projetos como
-[`pdmers`](https://github.com/nasccped/pdmers),
-[`jsmoke`](https://github.com/nasccped/jsmoke) e contribuidor da
-comunidade open-source ❤️
+alt="Cruzeiro do Sul logo">](https://www.cruzeirodosul.edu.br/)
+e fortemente interessado em low-level, algoritmos e temas
+específicos da computação.
 
-Meus repositórios mais importantes:
+## Experiências (mais recente para a mais velha)
 
-- 📐 [projects], listando coisas legais que construí (pessoal,
-  comercial e acadêmico)
-- 🔧 [configs], listando minhas configurações para as mais diversas
-  ferramentas tecnológicas
-- 📂 [docs], documentos importantes (currículos, certificados,
-  etc...)
+**[Github]/[LinkedIn] \[Fev. 2024 - _atual_\]**: contribuidor open
+source, autor de apps de utilidade disseminador de reflexões através
+de projetos e artigos 💡
 
-[projects]: https://github.com/nasccped/nascc.projects
-[configs]: https://github.com/nasccped/nascc.configs
-[docs]: https://github.com/nasccped/nascc.documents
+**[Cruzeiro do Sul university] \[Ago. 2025 - Dez. 2025\]_(estágio)_**:
+professor de informática para pessoas com deficiência intelectual 🧑‍🏫
 
-> [!TIP]
->
-> Email para contato: [pdbt.contact@gmail.com](pdbt.contact@gmail.com)
+**[UNICID] - \[Aug. 2023 - Dec. 2023\]_(academic project)_**:
+(front/back)end para aplicação CRUD simples usando PHP, MySQL e
+vanilla HTML + CSS + JS ⚙️
+
+[Github]: https://github.com/nasccped
+[LinkedIn]: https://linkedin.com/in/nasccped
+[Cruzeiro do Sul university]: https://www.cruzeirodosul.edu.br/
+[UNICID]: https://www.unicid.edu.br/
+
+## Expertises
+
+Bem familiarizado com linguagem C, Rust (+ferramental), Java (POO no
+geral), Python scripting, Linux (atualmente usando [VoidLinux] como
+desktop/workspace), banco de dados, estrutura de dados e algoritmos.
+
+[VoidLinux]: https://voidlinux.org/
+
+## Meu GitHub
+
+Meu GitHub tem como princípio disponibilizar todos meus projetos
+públicos (comerciais e de pesquisa).
+
+Os mais legais/recentes são:
+- [pdmers], uma ferramenta de concatenação de PDF escrita em Rust;
+- [jsmoke], um _project manager_ minimalista para aplicações Java,
+  também escrito em Rust (em desenvolvimento);
+- [citer-example], exemplo de implementação de _iterators_ em C.
+
+[pdmers]: https://github.com/nasccped/pdmers
+[jsmoke]: https://github.com/nasccped/jsmoke
+[citer-example]: https://github.com/nasccped/citer-example
+
+---
+
+<div align="center">
+
+**Extra**
+
+Também tenho repositórios para listar meus projetos e contribuições
+por categoria. Considere dar uma olhada:
+
+[<kbd>projects</kbd>](https://github.com/nasccped/nascc.projects)
+[<kbd>configs</kbd>](https://github.com/nasccped/nascc.configs)
+[<kbd>documents</kbd>](https://github.com/nasccped/nascc.documents)
+
+</div>
+
+<h4 align="right">
+
+Email de contato: [pdbt.contact@gmail.com](pdbt.contact@gmail.com)
+
+</h4>
